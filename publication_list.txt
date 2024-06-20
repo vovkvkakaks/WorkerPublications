@@ -1,0 +1,2010 @@
+1)
+The existence of globally stable price mechanisms for pure exchange models with upper semicontinous multivalued excess demand
+Realia i efektywność nauczania matematyki na kierunkach ekonomicznych
+Applying e-learning systems for Big Data education
+Globally stable price dynamics
+Application of duality in economy: decentralized management of a firm
+Metody selekcyjne w analizie stabilności równowagi z zastosowaniami w modelach wymiany rynkowej
+
+2)
+Time Consistent Policies and Quasi-Hyperbolic Discounting
+Dynamic Games in Macroeconomics
+Robust Markov perfect equilibria in a dynamic choice model with quasi-hyperbolic discounting
+Non-zero-sum stochastic games with recursive utilities of risk-sensitive players
+Markov distributional equilibrium dynamics in games with complementarities and no aggregate risk
+Time-consistent equilibria in dynamic models with recursive payoffs and behavioral discounting
+Equilibria in Altruistic Economic Growth Models
+Markov perfect equilibria in a dynamic decision model with quasi-hyperbolic discounting
+On recursive utilities with non-affine aggregator and conditional certainty equivalent
+A qualitative theory of large games with strategic
+complementarities
+Existence of Nash equilibria in stochastic games of resource extraction with risk-sensitive players
+Markov Perfect Equilibria in OLG models with risk sensitive agents
+On uniqueness of time-consistent Markov policies for quasi-hyperbolic consumers under uncertainty
+A note on Markov perfect equilibria in a class of non-stationary stochastic bequest games
+A strategic dynamic programming method for studying short-memory equilibria of stochastic games with uncountable number of states
+Non-paternalistic intergenerational altruism revisited
+Bequest games with unbounded utility functions
+Differential information in large games with strategic complementarities
+Existence of stationary Markov perfect equilibria in stochastic altruistic growth economies
+Influence of steel fibres addition on mechanical and selected rheological properties of steel fibre high-strenght  reinforced concrete
+Monotone equilibria in nonatomic supermodular games. A comment
+Stochastic bequest games
+Time consistent Markov policies in dynamic economies with quasi-hyperbolic consumers
+A constructive study of Markov equilibria in stochastic games with strategic complementarities
+A constructive geometrical approach to the uniqueness of Markov stationary equilibrium in stochastic games of intergenerational altruism
+Markov stationary equilibria in stochastic supermodular games with imperfect private and public information
+Stationary Markovian equilibrium in altruistic stochastic OLG models with limited commitment
+Asymptotic Nash equilibria in discounted stochastic games of resource extraction
+Existence of perfect equilibria in a class of multigenerational stochastic games of capital accumulation
+Nash equilibria in unconstrained stochastic games of resource extraction
+Construction of Nash equilibria in symmetric stochastic games of capital accumulation
+
+3)
+Gauge Fields in Loop Quantum Gravity and their Semiclassical Limit
+Regularization of the cosmological sector of loop quantum gravity with bosonic matter and the related problems with general covariance of quantum corrections
+Critical insight into the cosmological sector of loop quantum gravity
+General-relativistic spin system
+Klein-Gordon field from the XXZ Heisenberg model
+Quantum reduced loop gravity: Extension to gauge vector field
+Quantum reduced loop gravity: Extension to scalar fields
+Lattice gravity and cosmology : From canonical quantization of lattice gravity through its phase space reduction to anisotropic cosmology
+
+4)
+Minimalizacja dynamicznego oddziaływania farmy wiatrowej na sieć dystrybucyjną w układzie sprzęgania z zasobnikiem energii
+System ekspercki
+Wpływ środowiska pracy na kształtowanie się produktywności czynnika ludzkiego przy uwzględnieniu uwarunkowań ergonomicznych
+Kanon kręgosłupa człowieka
+Metoda najmniejszych kwadratów dla estymacji parametrów w nieliniowych modelach regresji
+Means in money exchange operations
+Comparative Analysis of Deterministic and Random Modulations Based on Mathematical Models of Transmission Errors in Series Communication
+Long Arm of Motorway-The Impact of Fenced Road on the Mortality of European Badgers
+Predation of invasive raccoon (Procyon lotor) on hibernating bats in the Nietoperek reserve in Poland
+Does the radiation approach affects acute toxicity in prostate cancer patients? A comparison of four radiation techniques
+Electromagnetic Compatibility Assessment in Multiconverter Power Systems - Conducted Interference Issues
+Use of underpasses by animals on a fenced expressway in a suburban area in western Poland
+Frequent or scarce? Damage flight-enabling body parts in bats (Chiroptera)
+Nearly neighbourly families of standard boxes
+Analysis of the impact of simulation model simplifications on the quality of low-energy buildings simulation results
+Application of Stochastic Decentralized Active Demand Response (DADR) System for Load Frequency Control
+Selective foraging on tree and shrub species by the European beaver Castor fiber in lowland and highland habitats in western Poland
+Demand side management using DADR automation in the peak load reduction
+Ocena odczynu popromiennego (OOP) u leczonych napromienianiem chorych na raka stercza w zależności od zastosowanej metody napromieniania: konformalnej 3D, IMRT, IGRT i V-MAT
+The evaluation of the fertilizing and yield potential of straw and cellulose manure
+Decentralized active demand response (DADR) system for improvement of frequency stability in distribution network
+Diophantine equation based model of data transmission errors caused by interference generated by DC-DC converters with deterministic modulation
+Distributed active demand response system for peak power reduction through load shifting
+Impact of sheep grazing on small mammals diversity in lower mountain coniferous forest glades
+CM voltage compensators for power electronic interfaces
+The impact of the moon phases on winter activity of the noctule bats Nyctalus noctula
+Testing of co-fermentation of poultry manure and corn silage
+Thermographic evaluation of the effect of cellulose added to straw litter on the temperature of bedding
+Time-domain-based assessment of data transmission error probability in smart grids with electromagnetic interference
+Damped sinusoidal function to model acute irradiation in radiotherapy patients
+Pearson's random walk approach to evaluating interference generated by a group of converters
+Model M/G/1 PS w procesie modelowania mechanizmu CSMA-CA sieci standardu IEEE 802.15.4
+Organic matter decomposition process in the straw and cellulose manure
+A differential equation related to the 1p-norms
+Determination of flux density produced by multilevel inverters in CM voltage filter
+Sexual dimorphism in Hucul horses using discriminant analysis
+Statistical approach to discharge bearing currents
+Ocena wartości nawozowej i plonotwórczej obornika indyczego w zależności od zastosowanego materiału ściółkowego
+Studying external load in water reservoirs on the example of Slawskie Lake
+The evaluation of chosen Hucul horses morphometric traits with the use of point method
+Zaburzenia przewodzone generowane przez grupę zasilaczy AC/DC z modulacją deterministyczną i pseudolosową
+Ocena eksterieru konia huculskiego na podstawie wybranych wskaźników morfometrycznych. Wskaźniki głowy
+Ocena eksterieru konia huculskiego na podstawie wybranych wskaźników morfometrycznych. Wskaźniki klatki piersiowej i miednicy
+Ocena eksterieru konia huculskiego na podstawie wybranych wskaźników morfometrycznych (część I)
+Statistical model of electrostatics discharge hazard in bearings of induction motor fed by inverter
+Band copulas as spectral measures for two-dimensional stable random vectors
+Wpływ impedancji pasywnych filtrów EMC na częstość występowania i amplitudy prądów łożyskowych w układach napędowych PWM
+A new class of band copulas - distributions with uniform marginals
+Nonnegative estimation of mean Squared errors of linear predictors in mixed linear models
+Nonnegative bayesian estimators for nonnegative parametric functions in linear models
+Energy storage control algorithm for suppression of fluctuation of wind farm output power
+Energy storage control strategy for flattening output power of a wind farm
+A comparative study on DSM services employing distributed energy resources: energy storage and direct load control
+Analysis of the impact of simulation model simplifications on the quality of low-energy buildings simulation results
+Badania właściwości zdecentralizowanego systemu sterowania popytem w aspekcie poprawy stabilności dynamicznej sieci dystrybucyjnych
+Compensation of CM voltage in systems consisting of interleaved AC-DC converters
+Wpływ pseudolosowych technik modulacji na wybrane zagadnienia kompatybilności elektromagnetycznej falowników napięcia
+Wpływ zaburzeń przewodzonych generowanych przez układy energoelektroniczne na niezawodność transmisji danych PLC
+CM voltage compensator for DC/DC converters
+Wpływ zaburzeń elektroenergetycznych przewodzonych generowanych przez interfejsy energoelektroniczne na niezawodność transmisji danych
+Aggregated conducted interferences generated by group of asynchronous drives with deterministic and Random modulation
+EMI generated by power electronic interfaces in smart grids
+Kompatybilność urządzeń elektronicznych a błądzenie losowe Pearsona
+Ocena własności termicznych podłoża słomiastego z dodatkiem celulozy na podstawie zdjęć termograficznych
+Sumaryczne zaburzenia przewodzone generowane przez grupę napędów asynchronicznych z modulacją deterministyczną i pseudolosową
+Zero CM voltage multilevel inverters for smart grid applications
+Determination of flux density produced by multilevel inverters in common mode voltage filter
+Przebieg procesu dekompozycji materii organicznej w oborniku słomiastym i celulozowym
+Statistical analysis of amplitudes and rate of bearing currents in PWM inverter fed drives
+Geometryczna konstrukcja kopuł
+Interline power flow controller - probabilistic approach
+Probalistic Method for Parallel Filter's Power Selection in Interline Power Flow Controller
+Selection of the parallel active filter's power rating when it is applied in distribution systems
+Statistical methods of bearing damage risk estimation in PWM inverter-fed drives
+Bearing current pulse rate in standard PWM drives
+Międzysystemowy sterownik przepływu mocy
+Formalizacja podstawowych zagadnień syntezy mechanizmów dla zastosowania nowych metod wyznaczania
+Nieujemne bayesowskie estymatory dla nieujemnych funkcji parametrów w modelach liniowych
+
+5)
+Consecutive Colouring of Oriented Graphs
+Forbidden structures for planar perfect consecutively colourable graphs
+On the structure and deficiency of k-tress with bounded degree
+The deficiency of all generalized Hertz graphs and minimal consecutively non-colourable graphs in this class
+Lévy processes and stochastic integrals in the sense of generalized convolutions
+On Ramsey (K1,m,G)-minimal graphs
+The functional equation and strictly substable random vectors
+Minimal vertex Ramsey graphs and minimal forbidden subgraphs
+The arithmetic of convolutions, scale mixtures, and convolution mixtures
+About the density of spectral measure of the two-dimensional S\alfaS random vector
+Geometrically semistable distributions and a functional equation
+Infinitely Divisible Probability Measures under Generalized Convolutions
+Rozkłady i procesy stochastyczne generowane przez rozkłady stabilne
+
+6)
+Iterative methods for fixed point problems in Hilbert spaces
+Programowanie liniowe
+Metody relaksacyjne w problemach optymalizacji wypukłej
+Landweber-type operator and its properties
+Opial-type theorems and the common fixed point problem
+Generalized relaxations of nonexpansive operators and convex feasibility problems
+Variable target subgradient method of projection onto an acute cone in convex minimalization
+Projection onto an acute cone and convex feasibility problems
+A convergence acceleration of the relaxation algorithm in convex minimization
+A subgradient projection method in linear programming
+Silent duel with accuracies less than 1
+Strict pseudocontractions and demicontractions, their properties, and applications
+Convergence and Semi-Convergence of a Class of Constrained Block Iterative Methods
+On Componental Operators in Hilbert Space
+The Landweber Operator Approach to the Split Equality Problem
+Outer Approximation Methods for Solving Variational Inequalities Defined over the Solution Set of a Split Convex Feasibility Problem
+Weak, strong and linear convergence of the CQ-method via the regularity of Landweber operators
+Extrapolated cyclic subgradient projection methods for the convex feasibility problems and their numerical behaviour
+Regular sequences of quasi-nonexpansive operators and their applications
+Superiorization with level control
+Simultaneous control of regularization, discretization and projected gradient steps for variational inequality problems
+Strong convergence of a hybrid steepest descent method for the split common fixed point problem
+Application of quasi-nonexpansive operators to an iterative method for variational inequality
+General method for solving the split common fixed point problem
+Projection methods: an annotated bibliography of books and reviews
+Contraction behaviour of iteration-discretization based on gradient type projections
+Extrapolated simultaneous subgradient projection method for variational inequality over the intersection of convex subsets
+Properties of a class of approximately shrinking operators and their applications
+An algorithm for solving the variational inequality problem over the fixed point set of a quasi-nonexpansive operator in euclidean space
+Iteration-discretization methods for variational inequalities over fixed point sets
+Methods for variational inequality problem over the intersection of fixed point sets of quasi-nonexpansive operators
+Extrapolation and local acceleration of an iterative process for common fixed point problems
+Variable target value relaxed alternating projection method
+Incomplete alternating projection method for large inconsistent linear systems
+Projection methods for the linear split feasibility problems
+Relaxed alternating projection methods
+A generalization of the Opial's theorem
+Convergence of the projected surrogate constraints method for the linear split feasibility problems
+Properties of projection and penalty methods for discretized elliptic control problems
+Analiza możliwości optymalizowania wsadu żeliwnego z udziałem ocynkowanych blach
+Residual selection in a projection method for convex minimization problems
+Selection strategies in projection methods for convex minimization problems
+Obtuse cones and Gram matrices with non-negative inverse
+A method of projection onto an acute cone with level control in convex minimization
+Geometrically convergent projection method in matrix games
+The Polyak subgradient projection method in matrix games
+Ellipsoid projection method in matrix games
+A subgradient projection method in matrix games
+Approximation of some zero-sum non-continuus game by a matrix game
+TOEPLITZ type theorems for double sequences and their applications to some iterative process in zero-sum continous games
+Game of timing with uncertain number of shots
+Tactical problems involving uncertain actions
+Mieszana gra czasowa 1 x 1 z niepewnymi akcjami
+Approximately shrinking operators and their applications to variational inequalities
+Iterative methods for solving variational inequalities in Hilbert spaces
+Generalized hybrid steepest descent method for variational inequality problem over the finite intersection of fixed point sets
+Methods for variational inequality problem over the intersection of fixed point sets of quasi-nonexpansive operators
+Generalized hybrid steepest descent methods for somo variational inequality problem
+Methods for variational inequality problem over the fixed point set of a quasi-nonexpansive operator
+Generalized relaxations of nonexpansive operators with applications to convex optimization problems
+Convergence of relaxed alternating projection methods
+A modification of the alternating projection method
+Metody ograniczeń zastępczych dla problemu dopuszczalności liniowej
+Selekcja residualna w metodach projekcyjnych dla problemów minimalizacji wypukłej
+Numerical behavior of projection methods with residual selection for convex minimization problems
+Residual selection in projection methods for convex minimization problems
+A method of projection onto an acute cone in convex minimization and its numerical behavior
+Numerical behavior of the projection method onto an acute cone in convex minimization
+Projection methods in convex minimization
+Methods of the projection onto an acute cone in convex minimization
+A method of projection onto an acute cone in convex feasibility problems
+On some subgradient and ellipsoid methods in matrix games
+An iterative process in zero-sum continuous games
+Numerical aspects in applied mathematics minisemester
+On a relaxation algorithm in convex optimization problems
+Gry czasowe z niepełną informacją
+
+7)
+Coloring chain hypergraphs
+Generalized arboricity of graphs with large girth
+The lonely runner problem for lacunary sequences
+Harmonious coloring of uniform hypergraphs
+Additive coloring of planar graphs
+Random runners are very lonely
+Lucky labelings of graphs
+Invisible runners in finite fields
+Nonrepetitive colorings of graphs
+Hipoteza Kakei w ciałach skończonych
+
+8)
+Hypergraph operations preserving sc-greediness
+Sum-list-colouring of Θ-hypergraphs
+Acyclic Sum-List-Colouring of Cylinders
+Consecutive Colouring of Oriented Graphs
+Equitable improper choosability of graphs
+Graph classes generated by Mycielskians
+Sum-list colouring of unions of a hypercycle and a path with at most two vertices in common
+Improper sum-list colouring of 2-trees
+Equitable List Vertex Colourability and Arboricity of Grids
+P-apex graphs
+Acyclic sum-list-colouring of grids and other classes of graphs
+Forbidden structures for planar perfect consecutively colourable graphs
+Harmonious colourings of graphs
+General and acyclic sum-list-colouring of graphs
+On the structure and deficiency of k-tress with bounded degree
+Some properties of vertex-oblique graphs
+The deficiency of all generalized Hertz graphs and minimal consecutively non-colourable graphs in this class
+The number of stable matchings in models of the Gale-Shapley type with preferences given by partial orders
+A feedback vertex set of 2-degenerate graphs
+Forbidden graphs for classes of split-like graphs
+A note on the uniqueness of stable marriage matching
+A number of stable matchings in models of the Gale-Shapley type
+Acyclic homomorphisms to stars of graph Cartesian products and chordal bipartite graphs
+Unique factorization of compositive hereditary graph properties
+On prime inductive classes of graphs
+Minimal forbidden graphs of reducible additive hereditary graph properties
+Cardinality of a minimal forbidden graph family for reducible additive hereditary graph properties
+On 3-chromatically unique and 3-chromatically equivalent hypergraphs
+On uniqueness of a general factorization of graph properties
+Chromatic polynomials of hypergraphs
+Cost colourings of hypergraphs
+A note on joins of additive hereditary graph properties
+On chromatic polynomials of hypergraphs
+On k-chromatically unique and k-chromatically equivalent hypergraphs
+Maximal hypergraphs with respect to the bounded cost hereditary property
+A note on a list colouring of hypergraphs
+Minimal vertex Ramsey graphs and minimal forbidden subgraphs
+Generalized list colourings of graphs
+An extension of Catlin's theorem
+Classes of chromatically unique graphs
+Classes of chromatically unique or equivalent graphs
+Equitable d-degenerate Choosability of Graphs
+Additive hereditary properties of hypergraphs based on chromatic sums of hypergraphs
+On panchromatic colorings of hypergraphs
+Discussiones Mathematicae - Graph Theory
+Discussiones Mathematicae - Graph Theory
+
+9)
+Analiza gospodarki odpadami budowlanymi w województwie lubuskim
+Life cycle assessment (LCA) of building thermal insulation materials
+Ocena wpływu lokalizacji budynku na zapotrzebowanie na energię
+Znaczenie lokalnych punktów gromadzenia odpadów w systemie gospodarki odpadami budowlanymi
+Analiza i ocena Wojewódzkiego Planu Gospodarki Odpadami w zakresie odpadów budowlanych
+Efektywność ekologiczna wykorzystania wełny celulozowej z recyklingu
+Case-Based Reasoning in Achieving Sustainability Targets of New Products
+Multi-Indicator Assessment of a Thermal Insulation Investment, Taking into Account the Pre-Set Temperature
+Assessment of selected environmental and economic factors for the development of electro-mobility in Poland
+Ecological and Economic Assessment of the Reuse of Steel Halls in Terms of LCA
+Economic and ecological benefits of thermal insulation of external partitions depending on the temperature in residential premises
+Economic and Ecological Optimization of Thermal Insulation Depending on the Pre-Set Temperature in a Dwelling
+Building Energy: Economics and Environment
+Electric Vehicles Charging Algorithm with Peak Power Minimization, EVs Charging Power Minimization, Ability to Respond to DR Signals and V2G Functionality
+Impact of the Degree Days of the Heating Period on Economically and Ecologically Optimal Thermal Insulation Thickness
+Optimum Thickness of Thermal Insulation with Both Economicand Ecological Costs of Heating and Cooling
+Ecological and Economic Benefits of the "Medium" Level of the Building Thermo-Modernization: A Case Study in Poland
+Optimal Thermal Insulation Thicknesses of External Walls Based on Economic and Ecological Heating Cost
+Minimization of delay costs in the realization of production orders in two-machine system
+Analysis of the sensitivity of the ecological effects for the investment based on the thermal insulation of the building: A Polish case study
+Changes in heat transfer coefficients in Poland and their impact on energy demand - an environmental and economic assessment
+Determining the minimum sum of production order delays in a two-machine system
+Ekonomiczne i ekologiczne koszty ogrzewania oraz optymalna grubość termoizolacji
+The impact of thermal insulation investments on sustainability in the construction sector
+Ocena efektów ekologicznych termoizolacji budynków
+Study on ecological cost-effectiveness for the thermal insulation ob building external vertical walls in Poland
+The environmental impacts of thermal insulation of buildings including the categories of damage: A Polish case study
+The optimal sequence of production orders, taking into account the cost of delays
+Korzyści ekonomiczne i ekologiczne wynikające ze zmian normowych wartości współczynników przenikania ciepła w budynkach
+Scheduling production orders, taking into account delays and waste
+The comparison of thermal insulation types of plaster with cement plaster
+Assigning the cover of Petri nets with subnets of the automatic type
+Implementacja zagadnień proekologicznych w kształceniu menedżerów XXI wieku na przykładzie Uniwesytetu Zielonogórskiego
+The ecological and economic analysis of using Thermopor plaster for thermal insulation
+Economic and ecological indicators for thermal insulating building investments
+Environmental benefits resulting from the reduction of heating energy demand in buildings
+Gospodarka odpadami budowlanymi w woj. lubuskim
+Optymalizacja kolejności zleceń produkcyjnych ze względu na minimalną sumę opóźnień
+Selekcja residualna w metodach rzutowych dla problemów dopuszczalności liniowej
+System gospodarowania odpadami budowlanymi w Polsce na przykładzie województwa lubuskiego
+Szybkie mnożenie modulo 2k-1
+Wyznaczanie P-inwariantów i pokrycia sieci Petriego z wykorzystaniem programowania liniowego
+Ecological indicators of construction investment
+Economic and environmental benefits of thermal insulation of building external walls
+Gospodarowanie odpadami komunalnymi biodegradowalnymi w województwie lubuskim
+Ocena efektywności projektu inwestycyjnego w budownictwie na przykładzie termoizolacji
+Ocena gospodarki odpadami komunalnymi w woj. lubuskim
+Uogólnienie metody rzutowania naprzemiennego
+Wpływ inwestycji termoizolacyjnej na środowisko
+Zastosowanie programowania liniowego do badania sieci Petriego
+Analiza ekologicznej efektywności kosztowej termoizolacji = Analysis of ecological cost-effectiveness of thermal insulation
+Aspekty ekonomiczne i ekologiczne ogrzewania gazem = Economic and ecological aspects of gas heating
+Efektywność kosztowa termoizolacji budynku
+Ekologiczna efektywność termoizolacji
+Ocena korzyści termoizolacji
+Projection method with level control in convex minimization
+Recykling odpadów budowlanych w kontekście budownictwa zrównoważonego
+Sterowanie poziomem w metodach projekcyjnych dla problemów minimalizacji wypukłej nieróżniczkowalnej
+Variable target value relaxed alternating projection method
+Zastosowanie metod projekcyjnych w optymalizacji wypukłej nieróżniczkowalnej
+Analiza ekologiczna i ekonomiczna wykorzystania ekofibru do termoizolacji
+Korzyści ekonomiczne i środowiskowe termomodernizacji w zależności od stosowanego źródła ciepła
+Ocena ryzyka inwestycji w termoizolację
+Optymalizacja dwukryterialna termoizolacji
+Optymalizacja ekonomiczno-środowiskowa budynku na przykładzie zewnętrznej przegrody budowlanej
+Management of thermal energy in buildings by selecting heat sources and choosing the optimal thermal-insulation thickness
+Wpływ kosztów ogrzewania na dobór termoizolacji
+Ocena materiałów termoizolacyjnych przy wycenie energetycznej budynków i mieszkań
+Projection method with residual selection for linear feasibility problems
+Zagospodarowywanie ocynkowanych blach w procesach topienia żeliwa
+Residual selection in a projection method for convex minimization problems
+Selection strategies in projection methods for convex minimization problems
+Numerical behavior of the method of projection onto an acute cone with level control in convex minimization
+Optimization of thermal insulation thickness based on economic and ecological cost of heating
+Optimization of thermal insulation for ecological reasons depending on the degree-days of heating period
+Optimum Thickness of the Thermal Insulation Layer from the Economic and Ecological Perspective
+Minimalizacja kosztów opóźnień obróbki zleceń produkcyjnych w systemie dwumaszynowym
+Economic and environemntal benefits resulting from the changes of standard for the values of heat transfer coefficients in buildings
+Ocena wpływu lokalizacji budynku na zapotrzebowanie na energię
+Implementacja zagadnień proekologicznych w kształceniu menadżerów XXI wieku na przykładzie Uniwersytetu Zielonogórskiego
+The ecological and economic analysis of using Thermopor plaster for thermal insulation
+The optimization of parallel multiplication
+Znaczenie Lokalnych Punktów Gromadzenia Odpadów w systemie gospodarki odpadami budowlanymi
+Analiza i ocena wojewódzkiego planu gospodarki odpadami w zakresie odpadów budowlanych
+Environmental benefits resulting from the reduction of heating energy demand in buildings
+Optymalizacja kolejności zleceń produkcyjnych ze względu na minimalną sumę opóźnień
+Szybkie mnożenie modulo 2k-1
+Zastosowanie selekcji residualnej w metodach rzutowych dla problemów dopuszczalności liniowej
+Level control in projection methods for convex minimization
+The ecological effectiveness of using cellulose wool from recycling
+Uogólnienie metody rzutowania naprzemiennego
+Zastosowanie programowania liniowego do badania sieci Petriego
+Sterowanie poziomem w metodach projekcyjnych dla problemów minimalizacji wypukłej nieróżniczkowalnej
+Zastosowanie metod projekcyjnych w optymalizacji wypukłej nieróżniczkowalnej
+Variable target value relaxed alternating projection method
+Projection method with residual selection for linear feasibility problem
+Residual selection model for convex optimization problems
+Selekcja residualna w metodach projekcyjnych dla problemów minimalizacji wypukłej
+Numerical behavior of projection methods with residual selection for convex minimization problems
+Residual selection in projection methods for convex minimization problems
+A method of projection onto an acute cone in convex minimization and its numerical behavior
+Numerical behavior of the projection method onto an acute cone in convex minimization
+Fraktale i algorytmy ich wizualizacji
+Metody projekcyjne w problemach minimalizacji wypukłej
+Energies
+Analiza finansowa i ekonomiczna dla projektu pn.: "Remont Mostu Arkadowego w Parku Mużakowskim w Łęknicy"
+Analiza finansowa i ekonomiczna dla projektu pn.; "Rozbudowa i rozwój infrastruktury transgranicznej, połączony ze wzmocnieniem ofert w turystyce rekreacyjnej i edukacyjnej w Euroregionie Sprewa-Nysa-Bóbr, poprzez rozszerzenie i połączenie w sieć przyrodniczych ofert rekreacyjnych i edukacyjnych Zoo w Cottbus i Ogrodu Botanicznego w Zielonej Górze"
+Analiza finansowa i ekonomiczna dla projektu pn.: "Rozbudowa transgranicznych połączeń drogowych w Żarach i Weisswasser"
+Analiza finansowa i ekonomiczna dla projektu pn.; "Transgraniczne odkrywanie nowych potencjałów w celu rozszerzenia oferty turystyczno-wypoczynkowej -  Piramidy w Parku Branitz w Cottbus i Dolina Luizy w Zielonej Górze"
+Studium wykonalności dla projektu pn.: "Przebudowa ciągu ulic: Górnośląska - Zwycięzców - Katowicka w Żarach (modernizacja publicznej infrastruktury drogowej o znaczeniu regionalnym i transgranicznym podnosząca atrakcyjność inwestycyjną województwa lubuskiego)"
+Analiza finansowa i ekonomiczna dla projektu pn.: "Współpraca UZ i BTU Cottbus w zakresie zielonej energii"
+Studium wykonalności dla projektu pn.: "Budowa nawierzchni dróg łączących drogi - krajową 27, wojewódzką 289, powiatową  1140F w Nowogrodzie Bobrzańskim"
+Studium wykonalności dla projektu pn. "Modernizacja bazy edukacyjnej na potrzeby rozwoju innowacyjnych kierunków kształcenia w województwie lubuskim"
+Studium wykonalności dla projektu pn.: "Rewitalizacja starego miasta w Nowym Miasteczku"
+Studium wykonalności dla projektu pn.: "Rewitalizacja Starówki w Żarach"
+Studium wykonalności dla projektu pn.: "Wzmocnienie regionalnego systemu transportu - budowa drogi dojazdowej do terenów K-SSSE"
+Selekcja linearyzacji w metodach projekcyjnych dla problemów optymalizacji wypukłej
+
+10)
+Proper connection and proper-walk connection of digraphs
+Independent (k + 1)-domination in k-trees
+Connected domination game
+Acyclic colorings of graphs with bounded degree
+Acyclic improper colouring of graphs with maximum degree 4
+Acyclic 6-colouring of graphs with maximum degree 5 and small maximum average degree
+Acyclic chromatic indices of fully subdivided graphs
+Acyclic edge colouring of plane graphs
+Q-Ramsey classes of graphs
+Acyclic edge colourings of graphs with the number of edges linearly bounded by the number of vertices
+Acyclic colourings of graphs with bounded degree
+Acyclic edge colouring of planar graphs without short cycles
+Acyclic reducible bounds for outerplanar graphs
+About acyclic edge colourings of planar graphs
+Cost colourings of hypergraphs
+On partitions of hereditary properties of graphs
+Maximal hypergraphs with respect to the bounded cost hereditary property
+Additive hereditary properties of hypergraphs based on chromatic sums of hypergraphs
+
+11)
+Generalized Classical Weighted Means, the Invariance, Complementarity and Convergence of Iterates of the Mean-Type Mappings
+Embeddability of pairs of weighted quasi-arithmetic means into a semiflow
+On weighted quasi-arithmetic means which are convex
+A square iterative roots of some mean-type mappings
+Commutativity of integral quasi-arithmetic means on measure spaces
+Subcommuting and commuting real homographic functions
+Uniformly bounded composition operators
+Uniformly bounded composition operators in the Banach space of bounded (p,k)-variation in the sense of Riesz-Popoviciu
+Uniformly bounded composition operators on a Banach space of bounded Wiener-Young variation functions
+Uniformly bounded composition operators in the Banach space of absolutely continuous functions
+A solution of an open problem concerning Lagrangian mean-type mappings
+Some Cauchy mean-type mappings for which the geometric mean is invariant
+An invariance of geometric mean with respect to Lagrangian means
+An invariance of the geometric mean with respect to Lagrangian conditionally homogenous mean-type mappings
+An invariance of the geometric mean with respect to Stolarsky mean-type mappings
+Arithmetic mean as a linear combination of two quasi-arithmetic means
+Niezmienniczość średniej geometrycznej w klasie średnich Cauchy'ego
+
+12)
+Iterative roots of PM functions extended from the characteristic interval
+Interative roots of type {T2}
+Note on generalized Archimedes-Borchardt algorithm : Dedicated to Professor Ludwig Reich on his 80th birthday
+Embeddability of pairs of weighted quasi-arithmetic means into a semiflow
+Gaussian iterative algorithm and integrated automorphism equation for random means
+On a Functional Equation Appearing on the Margins of a Mean Invariance Problem
+Iterated joining means
+On weighted quasi-arithmetic means which are convex
+A square iterative roots of some mean-type mappings
+Invariance of means
+On symmetry of Makó-Páles means
+Joining means : dedicated to Professor Zsolt Páles on the occasion of his 60th birthday
+From a theorem of R. Ger and T. Kochanek to marginal joints of means
+Parametrized means and limit properties of their Gaussian iterations
+Uniform convexity of paranormed generalizations of Lp spaces
+Conditional homogeneity and translativity of Makó-Páles means
+Determination of conjugate means by reducing to the generalized Matkowski-Sutô equation
+Computer assisted solution of an equality problem of mean values
+Invariance in a class of Bajraktarevič means
+On an equation involving weighted quasi-arithmetic means
+Invariance of quasi-arithmetic means with function weights
+Iterative roots of mappings with a unique set-value point
+Regularity theorem for a functional equation involving means
+Invariance of weighted quasi-arithmetic means with continous generators
+When lagrangean and quasi-arithmetic means coincide
+Invariance in the class of weighted quasi-arithmetic means
+On a problem of N. Brillouët-Belluot
+An invariance of the geometric mean with respect to Stolarsky mean-type mappings
+Niezmienniczość średnich quasi-arytmetycznych ważonych
+
+13)
+A recurrent method of solving iterative functional equations
+On a linear functional equation with commuting given functions
+Professor Andrzej Lasota on my mind
+Convexity and almost convexity in groups
+Commuting functions and invariant measures
+Globally attractive fixed points of continous self-mappings of a real interval
+On continuous solutions of the equation of invariant curves
+Iterative roots of PM functions extended from the characteristic interval
+On Weak Generalized Stability of Random Variables via Functional Equations
+Interative roots of type {T2}
+Note on generalized Archimedes-Borchardt algorithm : Dedicated to Professor Ludwig Reich on his 80th birthday
+Embeddability of pairs of weighted quasi-arithmetic means into a semiflow
+Gaussian iterative algorithm and integrated automorphism equation for random means
+On a Functional Equation Appearing on the Margins of a Mean Invariance Problem
+Karol Baron: a little bit about him on his 70th birthday
+On weighted quasi-arithmetic means which are convex
+Simultaneous difference equations on a restricted domain
+A square iterative roots of some mean-type mappings
+Invariance of means
+Joining means : dedicated to Professor Zsolt Páles on the occasion of his 60th birthday
+20th European conference on iteration theory
+From a theorem of R. Ger and T. Kochanek to marginal joints of means
+On some properties of strictly convex functions
+Convexity and a Stone-type theorem for convex sets in abelian semigroup setting
+Improving regularity of solutions of a difference equation
+Recent results on iterative roots
+Sharp regularity of linearization for C1,1 hyperbolic
+Uniqueness of solutions of simultaneous difference equations
+Iterative roots of piecewise monotonic functions of nonmonotonicity heigh not less than 2
+Local C1 stability versus global C1 unstability for iterative roots
+Note on an equation occurring in a problem of Nicole Brillouët-Belluot
+Almost convex functions on locally compact Abelian groups
+Almost convexity on Abelian groups
+Embeddability of mean-type mappings in a continuous iteration semigroup
+On functional equations in connection with the absolute value of additive functions
+Convexity on Abelian groups
+Iterative roots of mappings with a unique set-value point
+On weak generalized stability and (c,d)- pseudostable random variables via functional equations
+Also set-valued functions do not like iterative roots
+Continuity of solutions of the translation equation
+A functional equation of linear iteration
+Non-negative solutions of a convolution equation
+On a problem of N. Brillouët-Belluot
+On continuity of solutions to some equations of iteration theory
+Improving regularity of some functions by Grosse-Erdmann's theorems
+Random-valued functions and iterative functional equations
+Babbage equation on the circle
+Cocycles of continuous iteration semigroups
+On the smallest set-valued iterative roots of bijections
+Arithmetic mean as a linear combination of two quasi-arithmetic means
+On Mulholland's inequality
+Reversibility of interval homeomorphisms without fixed points
+Reversible interval homeomorphisms
+Continuous iteration semigroups and cocycles
+Recent results on functional equations in a single variable, perspectives and open problems
+Remarks on quasi-aritmetic means
+Series of iterates summing up to the identity function
+On an equation of linear iteration
+Invariant measures for fractals and dynamical systems
+Commuting functions and simultaneous Abel equations
+Duplicating the cube and functional equations
+On non-negative solutions of a convolution equation
+Convexity properties of nonnegative solutions of a convolution equation
+Almost iterable functions
+On a problem of Z. Daróczy
+Existence and uniqueness of continuous solutions of nonlinear functional equations are generic properties
+Asymptotic behaviour of positive solutions of a recurrent equation
+On continous functions which are additive on their graphs
+Generic properties of some itarative functional equations
+On a way of division of segments
+Nonlinear functional equations and their Baire category properties
+On approximate solutions of functional equations of countable order
+On linear homogeneous functional equations in the indeterminate case
+On solutions of a certain functional-integral equation
+Generic properties of nonlinear functional equations
+On linear functional equations in the determinate case
+On a set of functional equations having continuous solutions
+On some infinite systems of inequalities and some fixed point theorem
+A category theorem for linear functional equations in the indeterminate case
+
+14)
+Global security in claw-free cubic graphs
+Secure sets and their expansion in cubic graphs
+Bounds on global secure sets in cactus trees
+Monotonicity and expansion of global secure sets
+The possible cardinalities of global secure sets in cographs
+The complexity of some acyclic improper colourings
+Acyclic colourings of graphs with bounded degree
+Bezpieczeństwo w grafach
+Matching cutsets in graphs of diameter 2
+O złożoności problemów F-dekompozycji grafów
+
+15)
+Shallow water waves - extended Korteweg-de Vries equations : second order perturbation approach
+Convolution type stochastic Volterra equations
+KdV, Extended KdV, 5th-Order KdV, and Gardner Equations Generalized for Uneven Bottom Versus Corresponding Boussinesq's Equations
+Adiabatic Invariants of Second Order Korteweg-de Vries Type Equation
+On difficulties appearing in the study od stochastic Volterra equations
+Time regularity of solutions to stochastic evolution equations
+Regularity and continuity of solutions to stochastic evolution equations
+A note on stochastic wave equation
+Stochastic PDE's with function-valued solutions
+(2+1)-dimensional KdV, fifth-order KdV, and Gardner equations derived from the ideal fluid model. Soliton, cnoidal and superposition solutions
+Soliton, periodic and superposition solutions to nonlocal (2+1)-dimensional, extended KdV equation derived from the ideal fluid model
+Boussinesq's equations for (2+1)-dimensional surface gravity waves in an ideal fluid model
+Martingale Solution of Stochastic Hybrid Korteweg-de Vries-Burgers Equation
+Comment on "Two-dimensional third-and fifth-order nonlinear evolution equations for shallow water waves with surface tension" [Nonlinear Dyn, doi:10.1007/s11071-017-3938-7]
+Inverted Solutions of KdV-Type and Gardner Equations
+Can simple KdV-type equations be derived for shallow water problem with bottom bathymetry?
+Generalized KdV-type equations versus Boussinesq's equations for uneven bottom - numerical study
+Remarks on Existence/Nonexistence of Analytic Solutions to Higher Order KdV Equations
+Stochastic Extended Korteweg-De Vries Equation
+Exact Cnoidal Solutions of the Extended KdV Equation
+Martingale Solution to Stochastic Extended Korteweg-de Vries Equation
+New Exact Superposition Solutions to KdV2 Equation
+Superposition solutions to the extended KdV equation
+The New Extended KdV Equation for the Case of an Uneven Bottom
+Adiabatic invariants of the extended KdV equation
+Single soliton solution to the extended KdV equation over uneven depth
+A Finite Element Method for Extended KdV Equations
+Finite element method for stochastic extended KdV equations
+A series approach to perturbed stochastic Volterra equations of convolution type
+Energy invariant for shallow-water waves and the Korteweg-de Vries equation: Doubts about the invariance of energy
+Problems with energy of  waves described by Korteweg - de Vries equation
+A new nonlinear equation in the shallow water wave problem
+Shallow-water soliton dynamics beyond the Korteweg-de Vries equation
+Stochastic Volterra equations of nonscalar type in Hilbert space
+Stochastic Volterra equations under perturbations
+Numerical solutions to fractional perturbed Volterra equations
+Numerical solutions to integral equations equivalent to differential equations with fractional time
+Solutions to stochastic fractional oscillation equations
+Regularity of solutions to stochastic Volterra eguations of convolution type
+Solutions to stochastic fractional relaxation equations
+Strong solutions to stochastic Volterra equations
+On stochastic fractional Volterra equations in Hilbert space
+Properties of convolutions arising in stochastic Volterra equations
+Regularity of solutions to stochastic Volterra equations with infinite delay
+Stochastic Volterra equations driven by cylindrical Wiener process
+Maximal type inequalities for linear stochastic Volterra equations
+Numerical solutions to integrodifferential equations which interpolate heat and were equations
+Stochastic Volterra convolution with Levy process
+On the limit measure to stochastic Volterra equations
+Regularity of solution to stochastic Volterra equations
+Regularity of solutions to stochastic Volterra equations
+Statistical solutions to turbulent diffusion
+Stochastic integral with respect to cylinrical Wiener process
+Existence of mild solutions for semilinear equation of evolution
+Foias statistical solution for stochastic Navier - Stokes equation
+Statistical solutions for a stochastic Burger's equation
+Statistical study of stochastic diffusion equation
+Convolution type stochastic Volterra equations in Hilbert space
+On stochastic fractional relaxation equations in Hilbert space
+Stochastic Volterra equations of nonscalar type
+
+16)
+A note on a flip-connected class of generalized domino tilings of the box [0, 2]n
+On the Number of Neighborly Simplices in Rd
+Gluing and Cutting Cube Tiling Codes in Dimension Six
+New bounds on the maximum number of neighborly boxes in Rd
+Towards resolving Keller's cube tiling conjecture in dimension seven
+No More Than 2d+1 - 2 Nearly Neighbourly Simplices in Rd
+On the structure of cube tiling codes
+Nearly neighbourly families of standard boxes
+Rigid polyboxes and Keller's conjecture
+Continous \epsilon-selection theorems for almost lower semicontinous multifunctions and applications
+On Keller's conjecture in dimension seven
+Partitions and balanced matchings of an n-dimensional cube
+Some binomial identities arising from a partition of an n-dimensional cube
+On the structure of cube tilings of R3 and R4
+Rigidity and the chessboard theorem for cube packings
+The coin exchange problem and the structure of cube tilings
+The structure of cube tilings under symmetry conditions
+Polyboxes, cube tilings and rigidity
+On the number of minimal partitions of a box into boxes
+Hipoteza podziałowa Kellera
+Minimal partitions of a box into boxes
+Continuous selection theorems for nonlower semicontinuous multifunctions
+Relaxation theorem for-set valued functions with decomposable values
+Selection theorems for set-valued functions with decomposable values
+
+17)
+Set-Valued Stochastic Integrals and Applications
+Stochastic differential inclusions and applications
+Differential inclusions and optimal control
+Differential inclusions and optimal control
+Nonlinear Functional differential equations of neutral type
+Pewne własności równań różniczkowo-funkcyjnych o pochodnych cząstkowych typu hiperbolicznego
+General continuous selection theorem
+On the non-convergence of successive approximations in the theory of ordinary differential equations
+Weak compactness of weak solutions sets of forward-backward stochastic differential inclusions
+Integrable boundedness of set-valued stochastic integrals
+Weak compactness of weak solutions sets to stochastic differential inclusions
+Selection theorems for set-valued stochastic integrals
+Weak solutions of set-valued stochastic differential equations
+Approximation theorems for set-valued stochastic integrals
+Integrably bounded set-valued stochastic integrals
+Properties of set-valued stochastic differential equations
+Relationship between attainable sets of functional and set-valued functional stochastic inclusions
+Boundedness of set-valued stochastic integrals
+Continous \epsilon-selection theorems for almost lower semicontinous multifunctions and applications
+Existence of strong viable solutions of backward stochastic differential inclusions
+Martingale representation theorem for set-valued martingales
+Properties of generalized set-valued stochastic integrals
+Some properties of set-valued stochastic integrals of multiprocesses with finite Castaing representations : in honour to Professor Julian Musielak on the occasion of his 85th birthday
+Some properties of set-valued stochastic integrals
+Stochastic representation of partial differential inclusions
+Some optimal control problem for partial differential inclusions
+Weak compactness of weak solutions to backward stochastic differential inclusions
+Backward stochastic differential inclusions
+Stochastic differential inclusions and diffusion processes
+Tightness of continuous stochastic processes
+Continous selection theorems
+Weak compactness of solution sets to stochastic differential inclusions with non-convex right-hand sides
+Set valued approach to stochastic control : Part I (existence and regularity properties)
+Set valued approach to stochastic control : Part II (viability and semimartingale issues)
+Some applications of Girsanov theorem to the theory of stochastic differential inclusions
+Controllability theorem for nonlinear dynamical systems
+Selection theorems for stochastic set-valued integrals
+Weak compactness of solution sets to stochastic differential inclusions with convex right-hand sides
+Stochastic differential inclusions
+Quasi-retractive representation of solution sets to stochastic inclusions
+Set - valued stochastic integrals and stochastic inclusions
+Some remarks on boundary value problem for differential inclusion
+Stochastic differential inclusions
+Set-valued stochastic integrals over martingale measures and stochastic inclusions
+Strong and weak solutions to stochastic inclusions
+Viability theorems for stochastic inclusions
+Existence theorem for nonconvex stochastic inclusions
+Generalized stochastic inclusions
+Properties of solution set of stochastic inclusions
+Set-valued stochastic integrals and stochastic inclusions
+Controllability theorems  for neutral functional-differential inclusions
+Existence of solutions of boundary value problems of differential inclusions
+Relaxation theorem for attainable set for systems described by neutral functional differential inclusions
+Controllability of the neutral functional-differential inclusion with - M-dissipative right hand side
+Existence of solutions of neutral functional-differential inclusions
+Existence theorem for hyperbolic differential inclusion with Carathéodory right hand side
+Existence uniqueness and continous dependence of solutions of differential equations in Banach space
+Minimal selections and fixed point sets of multivalued contraction mappings in uniformly convex Banach spaces
+Subtrajectory integrals of set-valued functions and neutral functional differential inclusions
+Some problems in optimal control theory of systems described by neutral functional-differential equations
+Existence of optimal trajectory of Mayer problem for neutral functional-differential inclusions
+O zastosowaniu metody kategorii Baire'a w teorii równań różniczkowych
+Approximating control problems for dynamical systems described by functional-differential equations of neutral type
+Generalized fixed point theorem
+Generalized functional-differential equations of neutral type
+Generalized functional-differential equations of neutral type
+Generic properties of differential equations in separable Banach space
+Some generic properties of functional-differential equations of neutre type
+An approximation theorem for vector-valued functions
+Approximation theorem for multifunctions
+Compatness and upper semicontinuity of solution set of generalized differential equation in separable Banach space
+Generic properties of functional-differential equations of neutral type in separable Banach spaces
+Multivalued differential equations in separable Banach spaces
+Successive approximations of functional differential equations of neutral type
+Continuous dependence of solution sets for generalized differential equations of neutral type
+On the trajectories of generalized functional-differential systems of neutral type
+The generic property of existence of solutions of differential equations in Banach space
+The Kneser's type theorem for functional-differential equations of hyperbolic type
+Description of a class of multivalued differential equations with almost weakly stable trivial solution
+Existence of optimal controls for a class of hereditary systems
+Existence theorem of generalized functional-differential equations of neutral type
+Non-uniqueness in the theory of differential equations with convex compact solutions
+On the non-convergence of successive approximations in the theory of ordinary differential equations
+Existence theorem for functional - differential relations
+Existence theorem for functional-differential relations
+On the non-convergence of successive approximations in the theory of the equation z"xy=f(x, y, z, z'x, z'y)
+Approximation theorem for set-valued functions
+Bogolubov's type theorem for differential equation with compact convex valued solutions
+Existence theorem for functional-differential contingent equations
+On the non-convergence of successive approximations in the Darboux problem for the equation z"xy=f(x,y,z)
+Optimal control for a class of hereditary dynamical systems
+Description of a class of differential equations with set-valued solutions II
+Description of a class of hereditary differential-integral equations with non-converging successive aproximations
+Existence theorem for functional-differential equation with compact convex valued solutions
+Method of averaging for differential equations with compact convex valued solutions
+Non-uniqueness of solutions of differential equations of the hyperbolic type
+Określenie deformacji płaszcza bębna zgrzeblarki w oparciu o nierówność Gronwalla
+Some properties of the set of solutions of partial functional-differential equation of the hyperbolic type
+The existence of solutions of hereditary systems of hyperbolic type
+Description of a class of differential equations with set-valued solutions I
+Differentiability of solutions of hereditary differential equations
+Fixed point theorem for multivalued noncompact mappings
+Nekotorye voprosy ravnomernoj neustojčivosti obobscennyh sistem s posledejstviem
+On some application of Bogolubovs method for hyperbolic equations
+The Orlicz type theorem for differential-integral equations with a lagging argument
+Zbieżność kolejnych przybliżeń pewnego zagadnienia brzegowego z opóźniającym się argumentem
+Some applications of the approximation theorem of Alexiewicz-Orlicz
+Teorema Knezera dlâ nekotorogo funkcional'no-differencial'nogo uravneniâ s častnymi proizvednymi giperboličeskogo tipa
+O istnieniu i jednoznaczności rozwiązań równań różniczkowych o pochodnych cząstkowych z opóźnionym argumentem
+Pewne własności podwójnej całki Stieltjesa
+Pewne zadanie brzegowe dla równań różniczkowych z opóźnionym argumentem typu A. D. Myszkisa
+Differencirujemost po funkcjonalnomu parametru rešenij differencjalnyh uravnienij s zapazdyvaniem
+On the existence of solutions of differential integral equations with a lagging argument
+Teorema tipa N. N. Bogoljubova dlja hiperboličeskih uravnenij
+Twierdzenie o istnieniu rozwiązania równania różniczkowego z opóźnionym argumentem
+Uwaga o istnieniu rozwiązania równania różniczkowego z opóźnionym argumentem
+Inkluzje różniczkowe
+Weak compactness in spaces C(S,X)
+Ausbildungskonzeption für das Studium "Angewandte Mathematik" in der Fachrichtung "Grundprobleme der Technik" an der IHS Zielona Góra
+Existence of optimal control for system described by generalized functional-differential equations of neutral type
+Controllability of generalized system
+Existence of optimal control for system described by functionals-differential equations
+On the trajectories of generalized functional-differential control system
+Description of a class of multivalued differential equations with almost weakly stable trivial solution
+Description of a class of time-optimal control problems with non-uniqueness optimal controls
+Discussiones Mathematicae Differential Inclusions Control and Optimization
+Discussiones Mathematicae Differential Inclusions Control and Optimization
+Discussiones Mathematicae Differential Inclusions Control and Optimization
+Discussiones Mathematicae Differential Inclusions Control and Optimization
+Discussiones Mathematicae Differential Inclusions Control and Optimization
+Discussiones Mathematicae Differential Inclusions Control and Optimization
+Discussiones Mathematicae Differential Inclusions Control and Optimization
+Discussiones Mathematicae Differential Inclusions Control and Optimization
+Discussiones Mathematicae Differential Inclusions Control and Optimization
+Discussiones Mathematicae Differential Inclusions Control and Optimization
+Discussiones Mathematicae : Algebra and Stochastic Methods
+Discussiones Mathematicae : Differential Inclusions
+Discussiones Mathematicae : Algebra and Stochastic Methods
+Discussiones Mathematicae : Differential Inclusions
+Discussiones Mathematicae : Algebra and Stochastic Methods
+Discussiones Mathematicae : Differential Inclusions
+Discussiones Mathematicae : Algebra and Stochastic Methods
+Discussiones Mathematicae : Differential Inclusions
+Discussiones Mathematicae : Algebra and Stochastic Methods
+Discussiones Mathematicae : Differential Inclusions
+Discussiones Mathematicae
+Differential equations and optimal control proceedings of the seventh regional scientific conference of mathematicians
+Differential equations and optimal control proceedings of the sixth regional scientific session of mathematicians
+Differential equations and optimal control. Section: differential equations proceedings of the fifth regional scientific session of mathematicians held in Żagań
+Functional-differential system and related topics proceedings of the fourth international conference
+Functional-differential system and related topics proceedings of the third international conference
+Functional-differential system and related topics proceedings of the second international conference held at Błażejewko
+Functional-differential system and related topics proceedings of the first international conference
+Zeszyty Naukowe Wyższej Szkoły Inżynierskiej Matematyka - Fizyka nr 5
+Discussiones Mathematicae
+Zeszyty Naukowe Wyższej Szkoły Inżynierskiej Matematyka - Fizyka - Chemia nr 4
+Existance of solutions of boundary problems for random differential inclusions
+Some method of numerical solving of some optimal control problems
+Multivalued differential equations with compact right-hand side in Banach space
+Approximation theorem for multifunctions
+Existence and non-uniqueness of solutions of functional-differential equations of neutral type
+
+18)
+Estimation and Testing Hypotheses in Two-Level and Three-Level Multivariate Data with Block Compound Symmetric Covariance Structure
+Ratio F test for testing simultaneous hypotheses in models with blocked compound symmetric covariance structure
+Simultaneous hypotheses testing in models with blocked compound symmetric covariance structure
+Testing hypotheses about structure of parameters in models with block compound symmetric covariance structure
+Application of Jordan Algebra for testing hypotheses about structure of mean vector in model with block compound symmetric covariance structure
+Free-coordinate estimation for doubly multivariate data
+Testing hypotheses of covariance structure in multivariate data
+Best unbiased estimates for parameters of three-level multivariate data with doubly exchangeable covariance structure
+Best unbiased estimates for parameters of three-level multivariate data with doubly exchangeable covariance structure and structured mean vector
+Testing hypotheses about structure of mean vector in some multivariate models
+Testing hypotheses of covariance structure in multivariate data
+
+19)
+Degrees of the approximation of integrable functions by some special matrix means of Fourier series
+Degrees of the approximations by some special matrix means of conjugate Fourier series
+On the approximation of integrable functions by some special matrix means of Fourier series
+Pointwise Strong Approximation of Almost Periodic Functions
+On the approximation of functions from Lp by some special matrix means of Fourier series
+On the approximation of conjugate functions from Lp some special matrix means of conjugate Fourier series
+Approximation of functions from Lp(\omega)\beta by matrix means of their Fourier series
+On the degrees of aproximation of functions belonging to [...] class by matrix means of conjugate Fourier series
+On the rate of pointwise strong summability of orthogonal expansions
+"Roz(g)rywki matematyczno-logiczne" na Festiwalu Nauki w Zielonej Górze
+On the pointwise strong approximation by orthogonal expansions
+On the pointwise summability of Fourier series by the Cesaro and Abel-Poisson means
+On the rates of pointwise approximation of conjugate functions
+Aproksymacja punktowa pewnymi charakterystykami funkcji i funkcji sprzężonej
+
+20)
+Why \alfa-activity diagrams, \alfa-nets and s-nets are good models of production processes?
+UML - jako język wspomagający zarządzanie produkcją
+Algorytmiczne podejście do modelowania sieci światłowodowych. Studium przypadku
+Propozycje zmian ustawowych w procesie inwestycyjnym przedsiębiorców telekomunikacyjnych
+Wpływ kryteriów oceny projektów w ramach Programu Operacyjnego Polska Cyfrowa Działanie 1.1 na rozwój światłowodowej infrastruktury w Polsce
+Metodologia modyfikacji sieci obrazujących proces produkcyjny zawierający punkty kontroli jakości
+Metodologia weryfikacji procesu produkcyjnego z wykorzystaniem sieci Petriego na przykładzie modelowania produkcji frezarko-koparki
+Modification of Petri nets modeling production processes when quality control is introduced
+Skala redukcji sieci a weryfikacja procesu produkcyjnego
+Why \alpha-activity diagrams, \alpha-nets and s-nets are good models of production processes?
+Modelowanie produkcji za pomocą diagramów aktywnosci UML i \alfa-sieci na przykładzie obudowy separatora olejowego
+Odświeżanie UML
+UML: modelowanie procesu technologicznego montażu
+Aspekty prawne i praktyczne wyznaczania stref bezpiecznych w sieciach bezprzewodowych
+Metodologia weryfikacji procesu produkcyjnego z wykorzystaniem sieci Petriego na przykładzie modelowania produkcji frezarko-koparki
+Modification of Petri nets modeling production processes when quality control is introduced
+Modelowanie produkcji obudowy separatora olejowego za pomocą diagramów aktywności UML i alfa-sieci
+Modeling of production processes using UML and Petri nets
+
+21)
+Rachunek prawdopodobieństwa dla leniwych : zbiór zadań dla uczniów szkół ponadpodstawowych i studentów
+Seminormed approximation of functions by operators based on their Fourier series
+Pointwise summability of Fourier-Laguerre series of integrable functions
+Approximation by some subsequences of matrix means
+Approximation of integrable functions by general linear matrix operators of their fourier series
+Approximation of integrable functions by generalized de la Vallée Poussin means of the positive order
+Pointwise (H, \Fi) Strong Approximation by Fourier Series of L\Psi Integrable Functions
+Seminormed approximation by deferred matrix means of integrable functions in H(\omega)p space
+On estimates of deviation of conjugate functions from matrix operators of their Fourier series by some expressions with r-differences of the entries
+Trigonometric approximation of functions in seminormed spaces
+Pointwise approximation of functions by matrix operators of their Fourier series with r-differences of the entries
+Pointwise approximation of modified conjugate functions by matrix operators of their Fourier series with the use of some parameters
+Trigonometric Approximation of Functions from Lp(x)2\pi
+Pointwise approximation of 2\pi/r-periodic functions by matrix operators of their Fourier series with r-differences of the entries
+Pointwise approximation of modified conjugate functions by matrix operators of conjugate Fourier series of 2\pi/r-periodic functions
+Pointwise approximation of modified conjugate functions by matrix operators of their Fourier series
+Pointwise convergence of Fourier-Laguerre series of integrable functions
+Pointwise (H, \fi) Strong Approximation by Fourier Series of L1 Integrable Functions
+Approximation of integrable functions by wavelet expansions
+On approximation of functions by some hump matrix means of Fourier series
+On estimates of deviation of functions from matrix operators of their Fourier series by some expressions with r-differences of the entries
+On Pointwise Approximation of Functions by Some Matrix Means of Fourier Series
+Pointwise Strong Approximation of Almost Periodic Functions
+On pointwise approximation of conjugate functions by some hump matrix means of conjugate Fourier series
+On Pointwise Approximation of Functions by some Matrix Means of Conjugate Fourier Series
+Pointwise strong approximation of almost periodic functions in S1
+Applications of general monotone sequences to strong approximation by Fourier series
+Approximation of conjugate functions by general linear operators of their Fourier series at the Lebesgue points
+Corrigendum to "Pointwise analog of the Jackson approximation theorem"
+Erratum to "Poinwise analog of the Stečkin approximation theorem"
+On the degree of strong approximation of integrable functions in Stepanov sense
+Strong approximation of almost periodec functions
+Pointwise Analog of the Stečkin Approximation Theorem
+Approximation of functions from Lp(\omega)\beta by matrix means of their Fourier series
+On the degrees of aproximation of functions belonging to [...] class by matrix means of conjugate Fourier series
+Pointwise approximation of functions from [...] by linear operators of their Fourier series
+Approximation of functions from [...] by general linear operators of their Fourier series
+Approximation of functions from [...] by linear operators of conjugate Fourier series
+Approximation of functions from L[^rho(omega)_ beta] by linear operators of their Fourier series
+Approximation of integrable functions by general linear operators of their Fourier series
+Approximation of integrable functions by general linear operators of their Fourier series at the Lebesgue points
+Lebesgue type points in strong (C, \alfa) approximation of Fourier series
+Pointwise analog of the Jackson approximation theorem
+On the degree of strong approximation of functions and conjugate functions
+Approximation of functions belonging to the class L\ro(omega)beta\ by linear operators
+On the approximation of functions by matrix means in the generalized Hölder metric
+On the pointwise strong approximation by (C, 1) (E, 1) means
+Pointwise approximation by de la Vallée-Poussin means
+Pointwise strong and very strong approximation by matrix means of Fourier series
+On the degree of strong approximation of integrable functions
+On the rate of pointwise strong summability of orthogonal expansions
+Pointwise strong and very strong approximation of Fourier series
+On the pointwise strong approximation by orthogonal expansions
+Pointwise very strong approximation as a generalization of Fejer's summation theorem
+Remark on the inequality of F. Riesz
+On the rate of pointwise strong summability of Fourier series
+On the rate of pointwise summability of Fourier series
+On the speed of strong summability of double Fourier series by special means
+On the rate of strong summability of double Fourier series
+On the speed of strong summability of double Fourier series
+On the generalization of strong summability of double Fourier series
+On the rate of strong summability of Fourier-Chebyshev series
+On the degree of almost strong convergence of Fourier series
+On the rate of almost strong summability of Fourier series
+On the rate of pointwise strong (C, \alfa)-summability of Fourier series
+On the strong approximation by (C, \alfa)-means of Fourier series
+On Zygmund's type strong summation theorem
+On the rate of pointwise (H, q)-summability of Fourier series
+On the almost strong summability and convergence of Fourier series
+On the degrees of strong approximation by some trigonometric polynomials
+On strong approximation by logarithmic means of Fourier series
+On the approximation by the generalized de la Vallee Poussin means of Fourier series in the spaces WrH\alfa
+On the strong logarithmic summabilities of Fourier series
+On the degree of strong approximation of functions belonging to the space Lp (1,
+On the degree of strong approximation of integrable functions
+Strong approximation of functions by the triangular partial sums of double Fourier series
+On the norm-strong approximation of 2\pi-periodic functions
+On the strong approximation of functions belonging to the soace Lq (1,
+Generalizations of two Leindler's theorems
+Strong approximation of double Fourier series
+Aproksymacja w mocnym sensie
+On the almost strong summability and convergence of Fourier series
+O silnoj summiruemosti rjadov Furie i approksimacii integriruemych funkcij
+
+22)
+Generalized Keller Graph
+The structure of cube tilings
+On the structure of two-periodic cube tilings of the 4-dimensional Euclidean space
+On the structure of two-periodic cube tilings of the 4-dimensional Euclidean space
+Extended Keller graph and its properties
+On Keller's conjecture in dimension seven
+Keller's conjecture on the existence of columns in cube tilings of R^n
+On the structure of cube tilings and unextendible systems of cubes in low dimensions
+
+23)
+Metody badania stabilności schematów różnic skończonych dla jednowymiarowego równania przewodnictwa cieplnego
+Analytical and Experimental Study of the Solidification of a Water in the Horizontal
+Translativity of beta-type functions
+An experimental and analytical study of solidification around an array of horizontal cylinders subjected to free convection flow
+Simple analitycal and experimental method of solidification PCM material inside a spherical capsule
+Analytical Study of Solidification of Liquid Alloy in a Two-Stage Solidification Front
+Analytical Study of the Solidification of a Phase Change Material in an Annular Space
+On the special form of integral convolution type inequality due to Walter and Weckesser
+A new upper estimation for the blow-up time of solutions of a Volterra integral equation and its application to the modeling of the formation of shear bands
+Blow-up solutions in one-dimensional diffusion models
+Osgood type condition for the Volterra integral equations with bounded and nonincreasing kernels
+A differential equation related to the 1p-norms
+Anote on blow-up solutions to some nonlinear Volterra integral equations
+Nonlinear Volterra integral equations and the Schröder functional equation
+Blow-up time for solutions to somenonlinear Volterra integral equations
+A pair of functional inequalities characterizing polynomials and Bernoulli numbers
+Blow-up conditions for nonlinear Volterra integral equations with power nonlinearity
+Conditions for blow-up of solutions of some nonlinear Volterra integral equations
+Analiza istnienia rozwiązań wybuchających w pewnym modelu superdyfuzji
+
+24)
+Mean-type mappings involving generalized weighted classical means, their iterations and invariant means
+Generalized weighted arithmetic means
+On means which are quasi-arithmetic and of the Beckenbach-Gini type
+Quasi arithmetic covariance functions and their possible reducibility through functional equations
+Uniformly continuous superposition operators in the spaces of differentiable functions and absolutely continuous functions
+A pair of functional inequalities of iterative type related to a cauchy functional equation
+Funkcyjne równania
+On invariant generalized Beckenbach-Gini means
+On the polynomial-like iterative functional equation
+A generalization of Hölder's and Minkowski's inequalities and conjugate functions
+Cauchy functional equation on a restricted domain and commuting functions
+Restrictive Lipschitz continuity, basis property of a real sequence, and fixed-point principle in metrically convex spaces
+A generalization of the Goebel-Kirk fixed point theorem for asymptotically nonexpansive mappings
+Explicit forms of invariant means: complementary results to Gauss (A,G)-theorem and some applications
+Iterative roots of two-dimensional mappings
+Means in money exchange operations
+On Weak Generalized Stability of Random Variables via Functional Equations
+Translativity of beta-type functions
+A refinement of the Browder-Göhde-Kirk fixed point theorem and some applications
+Complementary means with respect to a nonsymmetric invariant mean
+Generalized Classical Weighted Means, the Invariance, Complementarity and Convergence of Iterates of the Mean-Type Mappings
+Precontinuity and applications
+A Generalization of Matthews Partial Metric Space and Fixed Point Theorems
+Invariance in a class of operations related to weighted quasi-geometric means
+Mean-type mappings and invariance principle
+Square Iterative Roots of Generalized Weighted Quasi-Arithmetic Mean-Type Mappings
+Cauchy differences and means
+Generalization of the Harmonic Weighted Mean Via Pythagorean Invariance Identity and Application
+Invariant means and iterates of mean-type mappings
+Means, generalized harmony proportion and applications
+On the Beckenbach-Gini-Lehmer Means and Means Mappings
+On the functional equation G(x, G(y,x)) = G(y, G(x,y)) and means
+Sandwich results for periodicity and  conjugacy
+The logarithmic Cauchy quotient mean
+Mean invariance identity
+On the special form of integral convolution type inequality due to Walter and Weckesser
+Remarks on submultiplicative functions
+Sandwich with periodicity
+A new invariance identity and means
+Beta-type means
+Characterization of the Euler gamma function with the aid of an arbitrary mean
+Directional Convexity and Characterizations of Beta and Gamma Functions
+Iterative functional equations and means
+The function f(x) / x is v-shaped for convex f
+A generalization of m-convexity and a sandwich theorem
+Beta-type functions and the harmonic mean
+Commutativity of integral quasi-arithmetic means on measure spaces
+Explicit solutions of the invariance equation for means
+Homogeneous beta-type functions
+Invariant means related to classical weighted means
+Sandwich theorem for m-convex functions
+On the commutation of generalized means on probability spaces
+Subcommuting and commuting real homographic functions
+Characterization of generalized quasi-arthmetic means
+Homographic commuting functions
+Iterative functional equations related to a competition equation
+Logarithmic complementary means and an extension of Carlson's log
+Second order iterative functional equations related to a competition equation
+Some characterizations of the Euler gamma function
+Uniform convexity of paranormed generalizations of Lp spaces
+Uniformly bounded composition operators
+Uniformly bounded set-valued composition operators in the spaces of functions of bounded variation in the sense of Wiener
+A counterpart of the Taylor theorem and means
+Conjugate functions, Lp-norm like functionals, the generalized Hölder inequality, Minkowski inequality and subhomogeneity
+Convergence of iterates of pre-mean-type mappings
+Generalised discounting in dynamic programming with unbounded returns
+Invariance identity in the class of generalized quasiarithmetic means
+Invariant translative mappings and a functional equation
+Note on some infinite products for \pi
+On homogeneous Lagrange means
+On variable discounting in dynamic programming: applications to resource extraction and other economic models
+A convexity property and a new characterization of Euler's gamma function
+A remark on periodic entire functions
+Fixed point theorem in a uniformly convex paranormed space and its application
+Generalized weigthed quasi-aritmetic means and the Kolmogorov-Nagumo theorem
+Halfconvex functionsand equality of Daróczy-Páles conjugate means
+Invariance of the Bajraktarević means with respect to the Beckenbach-Gini means
+Iterations of the mean-type mappings and uniqueness of invariant means
+Means and their inequalities
+Mean-value property and characterizations of some elementary functions
+Mean-value theorems and some symmetric means
+On a functional equation related to competition
+Persistently optimal policies in stochastic dynamic programming with generalized discounting
+Pointwise monotonic functions and generalized subadditivity
+Some classes of function spaces, their properties, and applications
+Subhomogeneity and subadditivity of the Lp-norm like functionals
+Uniformly bounded composition operators on a Banach space of bounded Wiener-Young variation functions
+Controllability of semilinear Volterra-Stieltjes intagral equation in the space of regulated functions
+Fixed points and iterations of mean-type mappings
+Invariance of a quasi-arithmetic mean with respect to a system of generalized Bajraktarević means
+Invariance of Bajraktarevič mean with respect to quasi arithmetic means
+Invariant graphs of functions for the mean-type mappings
+Mean-value theorem for vector-valued functions
+Quadratic inequalities and a characterization of inner product
+Results of Tadeusz Świątkowski on algebraic sums of sets and their applications in the theory of subadditive functions
+The Pexider type generalization of the Minkowski inequality
+Uniformly bounded composition operators in the Banach space of absolutely continuous functions
+Uniformly bounded set-valued Nemytskij operators acting between generalized Hölder function spaces
+A differential equation related to the 1p-norms
+A functional equation related to an equality of means problem
+A mean-value theorem and its applications
+Functional equations related to homographic functions
+Invariance of the Cauchy means with respect to Lagrange mean-type mappings of the same generations
+Mean-type mappings and invariant curves
+Mean-value type equalities with interchanged function and derivative
+On discounted dynamic programming with unbounded returns
+Power means generated by some mean-value theorems
+Quotient mean, its invariance with respect to a quasi-arithmetic mean-type mapping, and some applications
+Subadditive periodic functions
+Uniformly bounded composition operators between general Lipschitz function normed spaces
+Uniformly bounded Nemytskij operators generated by set-valued functions between generalized Hölder function spaces
+A composite functional equation and invariant curves
+A functional equation characterizing homographic functions
+A generalization of the Gołąb-Schinzel functional equation
+Embeddability of mean-type mappings in a continuous iteration semigroup
+Generalizations of Lagrange and Cauchy mean-value theorems
+Generalized weighted quasi-arithmetic means
+Homogeneous means generated by a mean-value theorem
+Local operators and a characterization of the Volterra operator
+On some generalizations of Gołąb-Schinzel functional equation
+On the Bellman equation for asymptotics of utility from terminal wealth
+On the non-reducibility of non-stationary correlation functions to stationary ones under a class of mean-operator transformations
+On weighted extensions of Bajraktarević means
+The bounded local operators in the Banach space of Hölder functions
+Uniformly continuous composition operator in the space of \fi-variation functions in the sense  of Riesz
+Uniformly continuous composition operators in the space of bounded Formula Not Shown - variation functions
+Uniformly continuous composition operators in the space of functions of two variables of bounded [...]-variation in the sense of Wiener
+Uniformly continuous set-valued composition operators in the spaces of functions of bounded variation in the sense of Wiener
+Uniformly continuous superposition operators in the space of bounded variation functions
+A converse of the Hölder inequality theorem
+Extensions of solutions of a functional equation in two variables
+Iterations of the mean-type mappings
+On extension of solutions of a simultaneous system of iterative functional equations
+Representation theorem for locally defined operators in the space of Whitney diffrentiable functions
+Uniformly continuous superposition operators in the Banach space of Hölder functions
+A pair of functional inequalities characterizing polynomials and Bernoulli numbers
+Converse theorem for the Minkowski inequality
+Generalized convex functions and a solution of a problem of Zs. Páles
+Iteration groups, commuting functions and simultaneous systems of linear functional equations
+Locally defined operators in the space of Whitney differentiable functions
+A simultaneous system of functional inequalities and mappings which are weakly of a constant sign
+An invariance of geometric mean with respect to Lagrangian means
+Remarks on Lipschitzian mappings and some fixed point theorems
+When M-convexity of a function implies its N-convexity for some means M and N
+Invariance in the class of weighted quasi-arithmetic means
+Invariance of the arithmetic  mean with respect to special mean-type mappings
+O średnich w trapezie
+On iterations of means and functional equations
+On weighted extensions of Cauchy's means
+A pair of linear functional inequalities and a characterization of Lp - norm
+Distributions of homogeneous means of uniform independent random variables and a characterization of means
+Lagrangian mean-type mappings for which the arithmetic mean is invariant
+Convex functions with respect to a mean and a characterization of quasi-arithmetic means
+Elliptic means and their generalizations
+Remarks on some problems of Th. M. Rassias
+Solution of a regularity problem in equality of Cauchy means
+The converse theorem for Minkowski's inequality
+The Gołąb-Schinzel functional equation restricted to half-lines
+A modified Gołab-Schinzel equation on a restricted domain (with applications to meteorology and fluid mechanics)
+A solution of a problem of Z. Daróczy on mixing-arithmetic means
+Affine and convex functions with respect to the logarithmic mean
+An invariance of the geometric mean with respect to Stolarsky mean-type mappings
+Another characterization of the gamma function
+Cocycles of continuous iteration semigroups
+On a composite functional equation
+On subadditive functions and \psi-additive mappings
+Arithmetic mean as a linear combination of two quasi-arithmetic means
+Ciąg geometryczny - metoda rozwiązywania równań rekurencyjnych
+On (\alfa, a)-convex set-valued functions
+On iteration semigroups of mean-type mappings and invariant means
+On Mulholland's inequality
+A solution of a problem of H. Haruki and Th. M. Rassia
+Continuous iteration semigroups and cocycles
+On a problem of Alsina again
+Dido's functional equation revisited
+On linear dependence of iteraters
+Remarks on quasi-aritmetic means
+A characterization of L\p -norm with the aid of equality condition in the Hölder inequality
+Invariant and complementary quasi-arithmetic means
+Iterations of mean-type mappings and invariant means
+Mean value property and associated functional equations
+On a functional equation for dido's problem
+A separation theorem for M -convex functions
+Characteristic analysis for a polynomial-like iterative equation
+Continuous solutions of a functional equation
+Convex set-valued functions on (0, \infty) and their conjugate
+Decomposition of homogeneous means and construction of some metric spaces
+Convex functions with respect to an arbitrary mean
+Convexity of power functions with respect to symmetric homogeneous means
+Envelopes of families of curves related to some iterative functional equations
+Equality in Minkowski inequality and a characterization of L-norm
+Iteration groups with generalized convex and concave elements
+Lipschitzian composition operators in some function spaces
+Method of characteristic for functional equations in polynominal form
+On the composition of homogenous quasarithmetic means
+Round-off stability of functional iterations on product spaces
+The converse of a generalized Hölder inequality
+A generalized $a$-Wright convexity and related functional equation
+Banach type fixed point theorems on product of spaces
+Envelopes of special class of one-parameter families of curves
+Functional equations involving the logarithmic mean
+On a characterization of $L^p$-norm and a converse of Minkowski's inequality
+On a class of composite functional equations in a single variable
+On a system of simultaneous iterative functional equations
+Positive homogeneous functionals related to $L^p$-norms
+Convex-like inequality, homogeneity, subadditivity, and a characterization of $L^p$-norm
+Nonlinear contractions on semimetric spaces
+On $(\alpha,a)$-convex functions
+On stability of the homogeneity condition
+Remark on generalization of Minkowski's inequality
+Remark on globally Lipschitzian composition operators
+Remarks on multiplication of subadditive functions
+A sandwich with convexity
+An integral Jensen inequality for convex multifunctions
+Geometrically convex solutions of certain difference equations and generalized Bohr-Mollerup type theorems
+Nonlinear contractions in metrically convex space
+On some extensions of the Gołąb-Schinzel functional equation.
+The converse of the Hölder inequality and its generalizations
+Characterization of globally Lipschitzian composition operator in the Sobolev space $W^n_p[a,b]$
+Functions which are additive on their graphs and some generalizations
+Geometrical convexity and generalizations of the Bohr-Mollerup theorem on the gamma function
+On a characterization of $L^p$-norm with the aid of the triangle inequality
+On a generalization of Browder-Goehde-Kirk fixed point theorem
+On a generalization of Mulholland's inequality
+On subadditive functions
+On the equality condition in Hölder's and Minkowski's inequalities
+Solutions of some functional inequalities connected with convex functions
+Subadditive functions and a relaxation of the homogeneity condition of seminorms
+Subadditive functions and partial converses of Minkowski's and Mulholland's inequalities
+Characterization of globally Lipschitzian composition operators in the Banach space ${\rm BV}_p^2[a,b]$
+Functional inequality characterizing nonnegative concave functions in $(0,\infty)^k$
+$L^p$-like paranorms : Selected topics in functional equations and iteration theory (Graz,1991)
+On $a$-Wright convexity and the converse of Minkowski's inequality
+On some aspects of interpolation and functional equations : Selected topics in functional equations and iteration theory (Graz,1991)
+Quasi-monotonicity, subadditive bijections of $R_+,$ and characterization of $L^p$-norm
+A functional inequality characterizing convex functions, conjugacy and a generalization of Hölder's and Minkowski's inequalities
+The converse of the Minkowski's inequality theorem and its generalization
+Locally defined operators in the space of differentiable functions
+On a characterization of $L^p$-norm
+On Nemytskii operator
+BV-solutions of nonlinear functional equations
+On Nemytskii Lipschitzian operator
+Examples and remarks to a fixed point theorem
+On the functional equations $\phi(x)=\alpha\phi(\alpha x)+(1-\alpha)\phi(1-(1-\alpha)x)$
+Some remarks on a problem of C. Alsina
+Remark on BV-solutions of a functional equation connected with invariant measures
+Form of Lipschitz operators of substitution in Banach spaces of differentiable functions
+On a characterization of Lipschitzian operators of substitution in the space ${\rm BV}\langle a$, $b\rangle$
+Functional equations and Nemytskii operators
+Note on iterations of some entire functions
+Remarks on some fixed point theorem
+Fixed point theorems for contractive mappings in metric spaces
+On equivalence of some fixed point theorems for self-mappings of metrically convex space
+Fixed point theorems for mappings with a contractive iterate at a point
+On sequences of contraction mappings
+Analytic solutions of a system of functional equations
+Integrable solutions of functional equations
+On the existence of a convex solution of the functional equation $\varphi (x)=h(x,\,\varphi [f(x)])$
+Solutions of bounded variation of a linear functional equation
+A fixed point theorem for non-expansive mappings on compact metric spaces
+On Lipschitzian solutions of a functional equation
+Some inequalities and a generalization of Banach's principle
+Correction to the paper: "On the continuous dependence of local analytic solutions of a functional equation on given functions"
+On the solutions fulfilling a Lipschitz condition of a nonlinear functional equation of order $n$
+Solutions of a functional equation in a special class of functions
+The uniqueness of solutions of a system of functional equations in some classes of functions
+Note on a functional equation
+On the continuous dependences of $C^{r}$ solutions of a functional equation on the given functions
+On the existence of differentiable solutions of a functional equation
+On meromorphic solutions of a functional equation. II
+On the continuous dependence of local analytic solutions of a functional equation on given functions
+On the continuous dependence of local analytic solutions of the functional equation in the non-uniqueness case
+On the continuous dependence of solutions of a functional equation on given functions
+On the uniqueness of differentiable solutions of a functional equation
+On meromorphic solutions of a functional equation
+On some properties of solutions of a functional equation
+A functional equation with two unkown functions
+Representation theorem for locally defined operators in the space of Whitney differentiable functions
+On an iteration group and its application to a proof of the converse of Minkowski's inequality theorem
+Integrable solutions of a linear functional inequality
+International Journal of Mathematics and Mathematical Sciences Means and their inequalities
+
+25)
+Stochastic inclusions with a non-Lipschitz right hand side
+Properties of set-valued Young integrals and Young differential inclusions generated by sets of Hölder functions
+Solution Sets for Young Differential Inclusions
+Stochastic inclusions and set-valued stochastic equations with mixed integrals in the plane
+Set-Valued Functions of Bounded Generalized Variation and Set-Valued Young Integrals
+Properties of set-valued integrals and set-valued stochastic equations driven by two-parameter martingales
+Selection Properties and Set-Valued Young Integrals of Set-Valued Functions
+Stochastic integrals and stochastic equations in set-valued and fuzzy-valued frameworks
+Weak solutions of set-valued stochastic differential equations
+On properties of set-valued integrals driven by martingales and set-valued stochastic equations
+Stochastic inclusions and set-valued stochastic equations driven by a two-parameter Wiener process
+Integrably bounded set-valued stochastic integrals
+On connections between stochastic differential inclusions and set-valued stochastic differential equations driven by semimartingales
+Properties of set-valued stochastic differential equations
+Stochastic inclusions driven by two-parameter martingales
+Fuzzy stochastic differential equations driven by semimartingales-different approaches
+Remarks on unboundedness of set-valued Itô stochastic integrals
+Set-valued stochastic integrals and equations with respect to two-parameter martingales
+Two-parameter fuzzy-valued stochastic integrals and equations
+A note on stochastic inclusions approach for fuzzy stochastic differential equations driven by semimartingales
+On set-valued stochastic equations and stochastic inclusions driven by a brownian sheet
+Set-valued and fuzzy stochastic differential equations driven by semimartingales
+The interrelation between stochastic differential inclusions and set-valued stochastic differential equations
+On multivalued stochastic integral equations driven by a Wiener process in the plane
+Set-valued stochastic integral equations driven by martingales
+On set-valued stochastic integrals and fuzzy stochastic equations
+Set-valued stochastic integral equations
+Stochastic fuzzy differential equations with an application
+A comparison theorem for stochastic equations in infinite dimensions and applications
+Fuzzy stochastic integral equations
+Stochastic set differential equations
+Locally Lipschitz selections in Banach lattices
+Martingale problem to Stratonovich stochastic inclusion
+Stochastic inclusions with non-continous set-valued operators
+Weak solutions of stochastic differential inclusions and their compactness
+The method of upper and lower solutions of stochastic differential equations and applications
+The upper and lower solutions method for stochastic inclusions with discontinous multivalued mappings
+Compactness of solutions to second order stochastic dynamical systems
+Differentiable selections of multifunctions and their applications
+Set valued Stratonovich integral and Stratonovich type stochastic inclusion
+Convex selections of multifunctions and their applications
+Second order stochastic equations and inclusions
+High order stochastic inclusions and their applications
+Weak solutions to a stochastic inclusion with multivalued integrators
+On weak solutions to stochastic differential inclusions driven by semimartingales
+Second order stochastic Inclusion
+On solutions to stochastic differential inclusions
+Set valued approach to stochastic control : Part I (existence and regularity properties)
+Set valued approach to stochastic control : Part II (viability and semimartingale issues)
+Optimal solutions to stochastic differential inclusions
+Stochastic inclusions with multivalued integrators
+On risk reserve under distribution constraints
+Stochastic integrals with multivalued integrators
+A note on viability under distribution constraints
+Selections of set-valued stochastic processes
+Continuity properties of solutions of multivalued equations with white noise perturbation
+Note on the selection properties of set-valued semimartingales
+Weak solutions of set-valued random differential equations
+On weak solutions of random differential inclusions
+Set-valued random differential equations in Banach space
+Multivariate tail equivalence of distribution value theory
+Stochastic differential inclusions and set-valued stochastic differential equations
+Związki pomiędzy rozwiązaniami stochastycznych inkluzji i stochastycznych równań wielowartościowych
+Fuzzy stochastic integral equations driven by martingales
+Second order stochastic equations and inclusions
+Weak solutions to stochastic differential inclusions a martingale approach
+Analityczna postać wskaźnika Dieterta
+On weak solutions of random set-valued different and differential inclusions
+Wpływ pyłu węglowego na wskaźnik Dieterta dla mas świeżych i obiegowych
+Możliwości algebraicznego wyznaczenia wskaźnika Dieterta dla wilgotnych mas formierskich
+DYNAMIC SYSTEMS AND APPLICATIONS Special Issue
+
+26)
+Stochastic inclusions with a non-Lipschitz right hand side
+Properties of set-valued Young integrals and Young differential inclusions generated by sets of Hölder functions
+Solution Sets for Young Differential Inclusions
+Set-Valued Functions of Bounded Generalized Variation and Set-Valued Young Integrals
+Selection Properties and Set-Valued Young Integrals of Set-Valued Functions
+Selection theorems for set-valued stochastic integrals
+Carathéodory-convex selections of multifunctions and their applications
+Upper separated multifunctions in deterministic and stochastic optimal control
+Stochastic retarded inslusion with Carathéodory-upper separated multifunctions
+Carathéodory convex selections of set-valued functions in Banach lattices
+Stochastic Itô inclusion with upper separated multifunctions
+Existence of solutions of functional stochastic inclusion
+Selection property of Stratonovich set-valued integral
+Locally Lipschitz selections in Banach lattices
+Martingale problem to Stratonovich stochastic inclusion
+Stratonovich stochastic inclusion
+Compactness of solutions to second order stochastic dynamical systems
+Differentiable selections of multifunctions and their applications
+Set valued Stratonovich integral and Stratonovich type stochastic inclusion
+Convex selections of multifunctions and their applications
+Properties of set-valued stochastic integrals
+Second order stochastic equations and inclusions
+Set-valued Stratonovich integral
+High order stochastic inclusions and their applications
+Weak solutions to a stochastic inclusion with multivalued integrators
+Second order stochastic Inclusion
+Set valued approach to stochastic control : Part I (existence and regularity properties)
+Set valued approach to stochastic control : Part II (viability and semimartingale issues)
+Monotone operators in stochastic set-valued equations
+Viable solutions of set-valued stochastic equation
+Viability of Set-valued Ito Equation
+Existence of Solution of Set-valued Ito Equation
+Stability problem for stochastic inclusion
+Stochastic functional inclusion driven by semimartingale
+Note on strong solutions of a stochastic inclusion
+On the solution of stochastic differential inclusion
+The infinitesimal generator of the solution semigroup of the inclusion x(t) \epsilon F(xt)
+Existence of solutions of boundary value problems of differential inclusions
+On the minimal solution property of neutral functional-differential inclusion
+Controllability of the neutral functional-differential inclusion with - M-dissipative right hand side
+Existence and uniqueness of solution of neutral functional-differential inclusions via dissipativity
+On the property of integral dissipativity
+On the approximation of maximal monotone multifunctions
+On compact operators in Orlicz spaces
+On the minimal solution property of neutral functional-differential inclusion
+Discussiones Mathematicae Differential Inclusions Control and Optimization
+Discussiones Mathematicae Differential Inclusions Control and Optimization
+Discussiones Mathematicae Differential Inclusions Control and Optimization
+Discussiones Mathematicae Differential Inclusions Control and Optimization
+Discussiones Mathematicae Differential Inclusions Control and Optimization
+Discussiones Mathematicae Differential Inclusions Control and Optimization
+Discussiones Mathematicae Differential Inclusions Control and Optimization
+Discussiones Mathematicae Differential Inclusions Control and Optimization
+Discussiones Mathematicae Differential Inclusions Control and Optimization
+DYNAMIC SYSTEMS AND APPLICATIONS Special Issue
+
+27)
+A New Effective Algorithm for Mechanical Assembly Sequence Planning
+Pore size, shape and orientation analysis with respect to tensile tests in nonwoven spun-lace textiles using image processing
+Badania regranulatów tworzyw sztucznych w produkcji opakowań zorientowanej na zero waste
+Methodology for the Correction of the Spatial Orientation Angles of the Unmanned Aerial Vehicle Using Real Time GNSS, a Shoreline Image and an Electronic Navigational Chart
+Modelling of the selected mechanical properties of the modern double-drum cards for manufacturing of spunlace nonwovens
+Modelling of the carding process for spunlace nonwovens with particular regard to selected mechanical parameters in a double-drum card. Part 1: modelling of the fibre deck forming process
+Modelling of the carding process for spunlace nonwovens with particular regard to selected mechanical parameters in a double-drum card. Part 2: Modelling of delay times in the longitudinal mixing process
+Notes on computational aspects of the fractional-order viscoelastic model
+Anote on blow-up solutions to some nonlinear Volterra integral equations
+An approximate solution of some Volterra integral equation with a smooth kernel
+A note on Volterra integral equations with power nonlinearity
+Numerical experiments for mathematical models of railway track oscillations
+A High-Performance Process for the Production of Non-Woven, Spunlace Fibres, Based on Mixtures of Viscose and Polyester Fibres. Part 1 - Methodology, Scope and the Expected Results of the Studies
+A High-Performance Process for the Production of Non-Woven, Spunlace Fibres, Based on Mixtures of Viscose and Polyester Fibres. Part 2 - Results of Mechanical and Qualitative Parameter Tests
+Selected Methods for Supporting The Growth of Economic Efficiency in Transportation Orders Originating in Electronic Transport Exchanges
+Planning and Management of the Mechanical Assembly Sequences
+Metoda identyfikacji parametrów w modelu konstytutywnym dla materiałó lepkosprężystych
+
+28)
+Non-Zero-Sum Stochastic Games
+Zero-Sum Stochastic Games
+Robust Markov perfect equilibria in a dynamic choice model with quasi-hyperbolic discounting
+Notes on risk-sensitive Nash equilibria
+N-person stochastic games : extensions of the finite state space case and correlation
+Zero-sum stochastic games with Borel state spaces
+Nonzero-sum stochastic games
+Stationary Equilibria for Nonzero-Sum Average Payoff Ergodic Stochastic Games with General State Space
+Existence of Correlated Weak Equilibria in Discontinuous Games
+Existence of Correlated Weak Equilibria in Discounted Stochastic Games with General State Space
+Positive Stochastic Games and a Theorem of Ornstein
+Non-zero-sum stochastic games with recursive utilities of risk-sensitive players
+On Approximate and Weak Correlated Equilibria in Constrained Discounted Stochastic Games
+A note on topological aspects in dynamic games of resource extraction and economic growth theory
+Constrained Discounted Stochastic Games
+Markov decision processes with quasi-hyperbolic discounting
+Stochastic Dynamic Programming with Non-linear Discounting
+Constrained discounted Markov decision processes with Borel state spaces
+Equilibria in Altruistic Economic Growth Models
+Markov perfect equilibria in a dynamic decision model with quasi-hyperbolic discounting
+Constrained Markov decision processes with expected total reward criteria
+On a generalization of the Dvoretzky-Wald-Wolfowitz theorem with an application to a robust optimization problem
+On symmetric stochastic games of resource extraction with weakly continuous transitions
+A note on Markov perfect equilibria in a class of non-stationary stochastic bequest games
+Non-paternalistic intergenerational altruism revisited
+Stationary almost Markov perfect equilibria in discounted stochastic games
+Bequest games with unbounded utility functions
+Existence of stationary Markov perfect equilibria in stochastic altruistic growth economies
+On pure stationary almost Markov Nash equilibria in nonzero-sum ARAT stochastic games
+Stochastic bequest games
+Stochastic games of resource extraction
+Generalised discounting in dynamic programming with unbounded returns
+On variable discounting in dynamic programming: applications to resource extraction and other economic models
+Robust Markov control process
+Robust Markov perfect equilibria
+Stationary Markov perfect equilibria in risk sensitive stochastic overlapping generations models
+Persistently optimal policies in stochastic dynamic programming with generalized discounting
+Preface: Special issue on stochastic games
+Discounted dynamic programming with unbounded returns: Application to economic models
+On discounted dynamic programming with unbounded returns
+Stochastic games with unbounded payoffs: applications to robust control in economics
+On a noncooperative stochastic game played by internally cooperating generations
+On measurable minimax selectors
+Equilibrium in a dynamic game of capital accumulation with the overtaking criterion
+Existence of perfect equilibria in a class of multigenerational stochastic games of capital accumulation
+Nash equilibria in unconstrained stochastic games of resource extraction
+Average optimality for semi-Markov control processes
+On Nikaido-Isoda type theorems for discounted stochastic games
+On stochastic games in economics
+A multigenerational dynamic game of resource extraction
+A note on an equilibrium in the great fish war game
+Approximation of noncooperative semi-Markov games
+On perfect equilibria in stochastic models of growth with intergenerational altruism
+On the optimality equation for average cost Markov control processes with Feller transition probabilities
+Optimality in Feller semi-Markov controll processes
+Remarks on sensitive equilibria in stochastic games with additive reward and transition structure
+Zero-sum ergodic stochastic games with Feller transition probabilities
+Nonzero-sum semi-Markov games with the expected average payoffs
+Construction of Nash equilibria in symmetric stochastic games of capital accumulation
+On a new class of nonzero-sum discounted stochastic games having stationary Nash equilibrium points
+On Nash equilibria in stochastic games of capital accumulation
+Epsilon-equilibria for stochastic games with uncountable state space and unbounded costs
+On the optimality equation for zero-sum ergodic stochastic games
+An alternative characterization of the weighted Banzhaf value
+Some remarks on equilibria in semi-Markov games
+A counterexample on overtaking optimality
+A note on strong 1-optimal policies in Markov decision chains with unbounded costs
+On approximations of nonzero-sum uniformly continuous ergodic stochastic games
+Optimal strategies in a class of zero-sum ergodic stochastic games
+Sensitive equilibria for ergodic stochastic games with countable state spaces
+A generalization of Ueno's inequality for n-step transition probabilities
+On an axiomatization of the Benzhaf value without the additivity axiom
+Weighted Banzhaf values
+On convex combinations of two values
+A Solidarity Value for n-Person Transferable Utility
+The Shapley Value for n-Person Games in Generalized Characteristic Function Form
+Zero-Sum Average Payoff Stochastic Games with General State Space
+A finite step algorithm via a bimatrix game to a single controller non-zero sum stochastic game
+Correlated Equilibria in Nonzero-Sum Differential Games
+Correlated Relaxed Equilibria in Nonzero-Sum Linear Differential Games
+Existence of Stationary Correlated Equilibria with Symmetric Information for Discounted Stochastic Games
+On weakly correlated and correlated equilibria in discontinuous games
+Semicontinuous nonstationary stochastic games II
+Zero-Sum Nonstationary Stochastic Games with General State Space
+Existence of optimal strategies in zero-sum nonstationary stochastic games with lack of information on both sides
+On the weak topology on a space of probability measures induced by policies
+Nonrandomized strategy equilibria in noncooperative stochastic games with additive transition and reward structure
+Semicontinuous nonstationary stochastic games
+Existence of equilibrium stationary strategies in discounted noncooperative stochastic games with uncountable state space
+Measurable Selection Theorems for Minimax Stochastic Optimization Problems
+Universally Measurable Strategies in Zero-Sum Stochastic Games
+On zero - sum stochastic games with general state space. I
+On zero - sum stochastic games with general state space. II
+Approximation theorems for zero-sum nonstationary stochastic games
+Minimax selection theorems
+Noncooperative nonstationary stochastic games
+Zero-sum ergodic stochastic games
+Advances in dynamic games applications to economics, finance, optimization, and stochastic control
+
+29)
+Sequential \delta (E(X), E'(X*))-compactness and completeness in vector-valued function spaces E(X)
+The mixed topology on $L\sp p$-spaces and Orlicz spaces
+Nuclear operators on the space Crc(X,E) of vector-valued continuous functions
+On traces of Bochner representable operators on the space of bounded measurable functions
+Nuclear operators and applications to kernel operators
+Nuclear operators on the Banach space of vector-valued essentially bounded measurable functions
+Bochner Representable Operators on Spaces of Continuous Functions
+Integration with respect to Baire vector measures with applications to the spectral theory
+Nuclear operators and Baire vector measures
+Nuclear tight operators on spaces of continuous functions
+Characterizations of continuous operators on Cb(X) with the strict topology
+Nuclear operators on Banach function spaces
+Discrete measures and strict topologies
+Strict topologies and spectral measures
+Strongly Mackey topologies and Radon vector measures
+Applications of the theory of Orlicz spaces to vector measures
+Continuous linear operators on Orlicz-Bochner spaces
+Strict and Mackey topologies and tight vector measures
+Bochner representable operators on Banach function spaces
+Integration in Orlicz-Bochner Spaces
+Nuclear operators on Cb(X, E) and the strict topology
+Completely continuous operators and the strict topology
+Dominated operators, absolutely summing operators and the strict topology
+Integral Representation of Continuous Operators with Respect to Strict Topologies
+Spectral homomorphisms on a locally convex algebra Cb(X)
+A Riesz representation theory for completely regular Hausdorff space and its applications
+Extension of operators on spaces of vector-valued continuous functions
+Strongly bounded operators on Crc(X, E) with the strict topology Βδ
+Topological Properties of Some Spaces of Continuous Operators
+Operators on spaces of bounded vector-valued continuous functions with strict topologies
+Some classes of continuous operators on spaces of bounded vector-valued continuous functions with the strict topology
+Strict topologies and operators on spaces of vector-valued continuous functions
+Compactness and sequential completeness in some spaces of operators
+Mackey topologies and compactness in spaces of vector measures
+Absolutely continuous operators on function spaces and vector measures
+Operator measures and integration operators
+Topological properties of the complex vector lattice of bounded finitely additive mesures : dedicated to Professor Julian Musielak on the occasion of his 85th birthday
+Topological properties of the complex vector lattice of bounded measurable functions
+Weakly compact operators and strict topologies
+Decompositions for weakly compact operators on the space of totally measurable functions
+Operators on the space of bounded strongly measurable functions
+Vector measures and Mackey topologies
+Vector measures and strict topologies
+Conditional weak compactness and weak sequential completeness in vector-valued function spaces
+Dieudonné operators on the space of Bochner integrable functions
+Dunford-Pettis operators on the space of Bochner integrable functions
+Yosida-Hewitt type decompositions for order-weakly compact operators
+Integral representation of linear operators on Orlicz-Bochner spaces
+Linear operators on the space of bounded continuous functions with strict topologies
+A Grothendieck-type theorem for the space of totally measurable functions
+Compactness of Bochner representable operators on Orlicz spaces
+Operators on space of vector-valued totally measurable functions
+Strict topologies and Banach-Steinhaus type theorems
+Bochner representable operators on Köthe-Bochner spaces
+Linear operators on non-locally convex Orlicz spaces
+Linear operators on vector-valued function spaces with Mackey topologies
+Operator-valued measures and linear operators
+On some topological properties of vector-valued function spaces
+Order-weakly compact operators from vector-valued function spaces to Banach spaces
+Yosida-Hewitt type decompositions for weakly compact operators and operator-valued measures
+Conditional and relative weak compactness in vector-valued function spaces
+Duality theory of spaces of vector-valued continous functions
+Mackey Topologies on Vector-Valued Function Spaces
+Order-bounded operators from vector-valued function spaces to Banach spaces
+Generalized mixed topology on F-normed function spaces
+Weak sequential completeness and compactness in topological function spaces
+Locally solid topologies on spaces of vector-valued continuous function
+Sequential /delta(E(X), E'(X*))-compactness and completeness in Köthe-Bochner spaces E(X)
+Weak compactness in Köthe-Bochner spaces and regular methods of summability
+Conditional weak compactness in vector-valued function spaces
+Lebesgue topologies on vector-valued function spaces
+Strong topologies on vector-valued function spaces
+Some geometric properties in Orlicz sequence spaces equipped with Orlicz norm
+Topological dual of non-locally convex Orlicz-Bochner spaces
+Weak compactness in Köthe-Bochner spaces and Orlicz-Bochner spaces
+Weak sequential compactness and completeness in Köthe-Bochner Spaces
+A note on generalized Young's inequality for Orlicz functions
+Duality theory of vector-valued function spaces III
+Mackey topologies of Orlicz-Bochner spaces
+On the strongest locally convex Lebesque topology on Orlicz spaces
+Weak sequential compactness in non-locally convex Orlicz spaces
+Duality theory of vector-valued function spaces I
+Duality theory of vector-valued function spaces II
+Locally solid topologies on vector valued function spaces
+Weak sequential completness of Orlicz spaces
+A generalized mixed topology on Orlicz spaces
+Duality of non-locally convex Orlicz spaces
+Order continuous seminorms and weak compactness in Orlicz spaces
+Linear functionals on Orlicz sequence spaces without local convexity
+Order continuous linear functionals on non-locally convex Orlicz spaces
+Singular linear functionals on non-locally convex Orlicz spaces
+Inductive limit topologies on Orlicz spaces
+A characterization of the Mackey topology
+Linear functionals on Orlicz sequence spaces without local convexity
+Some equalities among Orlicz spaces, I
+On the finest Lebesgue topology on the space of essentially bounded measurable functions
+Orlicz lattices with modular topology I
+Orlicz lattices with modular topology II
+The Köthe dual of Orlicz sequence spaces without local convexity
+Mixed topology on normed function spaces. I
+Mixed topology on normed function spaces. II
+On the modular topology on Orlicz spaces
+On the order structure of Orlicz lattices
+Unions and intersections of families of Lp-spaces
+A characterization of the Mackey topology $\tau(L\sp\phi, L\sp{\phi\sp*}$ on Orlicz spaces
+On inclusions between Orlicz spaces
+On some linear topology on Orlicz spaces $L\sp {*\phi} \sb E(\mi)$. I
+On some linear topology on Orlicz spaces $L\sp {*\phi} \sb E(\mi)$. II
+On the finest of all linear topologies on Orlicz spaces for which $\phi$-modular convergence implies convergence in these topologies. II
+On the finest of all linear topologies on Orlicz spaces for which $\phi$-modular convergence implies convergence in these topologies III
+On the finest of all linear topologies on Orlicz spaces for which $\phi$-modular convergence implies convergence in these topologies IV
+Some equalities among Orlicz spaces II
+Some remarks on absolutely weak topologies on Orlicz spaces
+Inductive limit of a sequence of balanced topological spaces in Orlicz spaces $L\sp {*\phi} \sb E(mi)$
+On the finest of all linear topologies on Orlicz spaces for which $\phi$-modular convergence implies convergence in these topologies
+On two linear topologies on Orlicz spaces L*\fi. I
+On two equalities for Orlicz spaces
+On two equalities for Orlicz spaces of N-functions
+Topologiczne i porządkowe własności siatek modularnych i przestrzeni Orlicza
+BANACH CENTER PUBLICATIONS
+BANACH CENTER PUBLICATIONS
+Collectanea Mathematica
+Collectanea Mathematica
+
+30)
+Contribution to the improvement of the software development process for product families
+XENIX wielodostępny, wieloprogramowy system operacyjny (UNIX System V)
+XENIX wielodostępny, wieloprogramowy system operacyjny (UNIX System V)
+Wielodostępny, wieloprogramowy system operacyjny XENIX (UNIX System V/2)
+Układy elektroniki przemysłowej : instrukcje do ćwiczeń laboratoryjnych
+Business process modeling - method and tools
+The selection phase in decision making aided with a decision support system
+The development of a web-based information system supporting the work of a dean's office
+Koncepcje sieciowych systemów informacyjnych opartych o semantic Web Services
+Od rodzin systemów oprogramowania do koncepcji fabryk oprogramowania
+Applying system families concept to design of data acquisition module for CIM
+Zastosowanie wzorców projektowych i języka modelowania UML - wzorzec iterator
+Użytkowanie komputera
+Applying e-learning systems for Big Data education
+Decision-support system for the maritime trade
+Assessing the non-technical service aspects by using fuzzy methods
+Fuzzy modeling of QoS for e-business transaction realized by web services
+Architecture supporting service-orientation in value networks for e-business
+Customization of RUP methodology for service-oriented programming
+Adjusting software-intensive systems developed by using software factories and fuzzy features
+Geschäftsprozess-Flexibilität durch SoA
+Problemy tworzenia oprogramowania dla usług
+Variant system features modeled with fuzzy weights in the development with software factories
+Wpływ architektury systemów informacyjnych na elastyczność procesów biznesowych
+Application of fuzzy weighted feature diagrams to model variability in software families
+Business process management framework for eCommerce applications
+Employment of fuzzy logic in feature diagrams to model variability in software families
+Modeling Web Services variability with feature diagrams
+Extending the UML for modelling variability for system families
+Zastosowanie diagramów właściwości do modelowania zmienności komponentów w systemach handlu elektronicznego
+Zastosowanie technologii ram w zarządzaniu projektem informatycznym
+Building customer-specific software with the frame technology
+Obiektowe ewolucyjne podejście do tworzenia rodzin systemów z zastosowaniem struktur aplikacji
+A Multichannel Asynchronous Terminal Communication Processor for Unibus Computer Systems
+Interaktiver BASIC-Interpreter fuer Intel 8080 - eine Vorstellung
+Information Systems Development and Usage with Consideration of Privacy and Cyber Security Aspects
+Privacy requirements modeling in collaborative business processes
+Business Process Optimization with Big Data Analytics Under Consideration of Privacy
+Research problems associated with big data utilization in logistics and supply chains design and management
+Applying big data and linked data concepts in supply chains management
+Applying Linked Data concepts in BPM
+Application of an expert system for some logistic problem
+Fuzzy modeling of the quality of services for informations systems
+Software development process for service families with RUP
+Features with fuzzy probability
+Employing fuzzy logic in feature diagrams to model variability in software product-lines
+Feature modeling notations for system families
+Modeling variability for software product families
+Developing software families
+Modeling features in object-oriented components for e-commerce
+Modeling Web Services Variability with Feature Diagrams
+Rozszerzenia języka UML w modelowaniu systemów czasu rzeczywistego
+Using frame technology for handling construction-time variability in software product-lines
+Version-based approach for modeling software systems
+Feature interaction and composition problems in software product lines
+UML extensions for modeling real-time and embedded systems
+Zastosowanie JSP jako techniki generatywnej do realizacji części systemów w ramach linii produktów
+Wielokrotna używalność w obiektowym procesie rozwoju oprogramowania
+Ausbildungskonzeption für das Studium "Angewandte Mathematik" in der Fachrichtung "Grundprobleme der Technik" an der IHS Zielona Góra
+Anwendung eines Texteditors durch verschiedene UNIX-Rechner im lokalen Netzwerk
+Verbindung der Geräteunabhängigkeitsfragen in Mikrorechnerbetriebssystemen mit der Darstellungsschicht des ISO-Modells
+A multichannel for asynchronous terminal communication processor for multibus II and unibus computer systems
+Methods of terminal transfer realisation in a Local Area Network (UTI-NET)
+Anwendung Allgemeiner Entwurfsmodelle zum systematischen Entwurf von Mikrorechner - Softwaresystemen
+Bewertung der Stellung von höheren Programmiersprachen bei der Programmierung von Mikrorechnern
+Realisierung programmierbarer Steuerungen
+Analizator składniowy języka Pascal-HDL
+Beitrag zum systematischen Entwurf von interactiven Sprachverarbeitungssystemen (Interpretern) für Mikrorechner
+
+31)
+Degrees of the approximation of integrable functions by some special matrix means of Fourier series
+Degrees of the approximations by some special matrix means of conjugate Fourier series
+On the approximation of integrable functions by some special matrix means of Fourier series
+On the approximation of functions from Lp by some special matrix means of Fourier series
+On the approximation of conjugate functions from Lp some special matrix means of conjugate Fourier series
+Duality theory of spaces of vector-valued continous functions
+Locally solid topologies on spaces of vector-valued continuous function
+Topologie lokalnie solidne na przestrzeniach ciągłych funkcji wektorowych
+
+32)
+Hypergraph operations preserving sc-greediness
+Neighbour sum distinguishing edge-weightings with local constraints
+(Strong) Proper vertex connection of some digraphs
+Sum-list-colouring of Θ-hypergraphs
+The neighbour sum distinguishing relaxed edge colouring
+Proper connection and proper-walk connection of digraphs
+Equitable improper choosability of graphs
+Graph classes generated by Mycielskians
+Independent (k + 1)-domination in k-trees
+Sum-list colouring of unions of a hypercycle and a path with at most two vertices in common
+Connected domination game
+Dynamic F-free Coloring of Graphs
+Equitable List Vertex Colourability and Arboricity of Grids
+P-apex graphs
+Rainbow connections in digraphs
+Strong rainbow connection in digraphs
+The neighbour-sum-distinguishing edge-colouring game
+Acyclic colorings of graphs with bounded degree
+The Relaxed Game Chromatic Number of Graphs with Cut-Vertices
+A feedback vertex set of 2-degenerate graphs
+Acyclic improper colouring of graphs with maximum degree 4
+Global security in claw-free cubic graphs
+On the relaxed colouring game and the unilateral colouring game
+Rainbow connection in oriented graphs
+Secure sets and their expansion in cubic graphs
+On the non-(p-1)-partite Kp-free graphs
+Dynamic Coloring of Graphs
+The complexity of some acyclic improper colourings
+Acyclic colourings of graphs with bounded degree
+Colouring game and generalized colouring game on graphs with cut-verticles
+On extremal sizes of lokally k-tree graphs
+Game list colouring of graphs
+Generalised game colouring of graphs
+Size of weakly saturated graphs
+The game chromatic number and the game colouring number of cactuses
+Efektywność algorytmów dynamicznego kolorowania grafów - zastosowania w sieciach optycznych WDM
+Extremal bipartite graphs with a unique k-factor
+Marking games
+Ramsey (K1,2 , K3) - minimal graphs
+On Ramsey minimal graphs
+Some extremal problems of graphs with local constraints
+Weakly P-saturated graphs
+Generalized domination, independence and irredudance in graphs
+Equitable d-degenerate Choosability of Graphs
+Game list colouring of graphs
+Game partitions of graphs
+Discussiones Mathematicae - Graph Theory
+Discussiones Mathematicae - Graph Theory
+Własności ekstremalne grafów
+
+33)
+Matroids and Incidence Structures
+Remarks on an algebraic realizationn of closure operators
+Graphs with multiplicative vertex-coloring 2-edge-weightings
+Multiplicative vertex-colouring weightings of graphs
+Properties of digraphs connected with some congurence relations
+1,2 Conjecture - the multiplicative version : note
+Some digraphs arising from number theory and remarks on the zero-divisor graph of the ring Zn
+Gimnazjalistom matma nie straszna ...
+n-distributivity and n-modularity in lattices
+Closure operators, related algebras and contexts
+n-Distributivity and n-modularity in lattices
+Pewne algebraiczne i kombinatoryczne aspekty operatorów domknięcia
+
+34)
+Semimartingale measure in the investigation of Stratonovich-type stochastic integrals and inclusions
+Applicatiopn of semimartigale measurea to the investigation of stochastic inclusion
+Selection property of Stratonovich set-valued integral
+Properties of set-valued stochastic integrals
+
+35)
+Iterations for nonlocal elliptic problems
+Degrees of the approximation of integrable functions by some special matrix means of Fourier series
+Degrees of the approximations by some special matrix means of conjugate Fourier series
+On an inverse problem in the theory of thermistors
+Picard iterations scheme for nonlocal elliptic problems with decreasing nonlinearity
+O pewnych nielokalnych problemach eliptycznych
+
+36)
+Fałszywe alarmy w działaniach jednostek ochrony przeciwpożarowej. Analiza trendów w latach 2011-2022
+Zastosowanie wybranych metod taksonomii do analizy profilu (modelu) lubuskiego strażaka
+Klasyfikacja powiatów pod względem stopnia rozwoju funkcji turystycznej
+A note on admissibility of linear estimators in random models with a special structure
+An explicit characterization of admissible linear estimators of fixed and random effects in balanced random models
+Nowa propozycja wskaźnika rozwoju funkcji turystycznej
+Potencjał turystyczny województw Polski
+On admissibility of linear estimators in models with finitely generated parameter space
+On optimality of the orthogonal block design
+A characterization of admissible linear estimators of fixed and random effects in linear models
+Nonnegative estimation of mean Squared errors of linear predictors in mixed linear models
+On admissibility of linear estimators in models with finitely generated parameter space
+O dopuszczalnej predykcji w modelu z dwoma komponentami
+Estymacja dopuszczalna efektów stałych i losowych w modelach liniowych
+
+37)
+On the uniform convergence and integrability of special trigonometric integrals
+Seminormed approximation of functions by operators based on their Fourier series
+A Sufficient Condition for Uniform Convergence of Trigonometric Series with p-Bounded Variation Coefficients
+Approximation by double second type delayed arithmetic mean of periodic functions in H(\omega,\omega)p space
+Pointwise summability of Fourier-Laguerre series of integrable functions
+Approximation by some subsequences of matrix means
+Approximation of integrable functions by general linear matrix operators of their fourier series
+Approximation of integrable functions by generalized de la Vallée Poussin means of the positive order
+Seminormed approximation by deferred matrix means of integrable functions in H(\omega)p space
+Uniform convergence of sine integral-series
+A necessary condition for uniform convergence of double sine series with p-bounded variation coefficients
+On estimates of deviation of conjugate functions from matrix operators of their Fourier series by some expressions with r-differences of the entries
+Trigonometric approximation of functions in seminormed spaces
+Degree of convergence of a integral operator
+On the Integrability with Weight of Trigonometric Series
+Pointwise approximation of functions by matrix operators of their Fourier series with r-differences of the entries
+Pointwise approximation of modified conjugate functions by matrix operators of their Fourier series with the use of some parameters
+Trigonometric Approximation of Functions from Lp(x)2\pi
+Uniform convergence of trigonometric series with p-bounded variation coefficients
+On the Degree of Approximation of Continuous Functions by Means of Fourier Series in the Hölder Metric
+On weighted integrability of double sine series
+On weighted integrability of functions defined by trigonometric series with p-bounded variation coefficients
+On the uniform convergence of double sine series
+On trigonometric approximation of functions in the Lq norm
+Pointwise approximation of 2\pi/r-periodic functions by matrix operators of their Fourier series with r-differences of the entries
+Pointwise approximation of modified conjugate functions by matrix operators of conjugate Fourier series of 2\pi/r-periodic functions
+Pointwise approximation of modified conjugate functions by matrix operators of their Fourier series
+Pointwise convergence of Fourier-Laguerre series of integrable functions
+Approximation of integrable functions by wavelet expansions
+On approximation of functions by some hump matrix means of Fourier series
+On estimates of deviation of functions from matrix operators of their Fourier series by some expressions with r-differences of the entries
+On Pointwise Approximation of Functions by Some Matrix Means of Fourier Series
+Pointwise Strong Approximation of Almost Periodic Functions
+On pointwise approximation of conjugate functions by some hump matrix means of conjugate Fourier series
+On Pointwise Approximation of Functions by some Matrix Means of Conjugate Fourier Series
+Pointwise strong approximation of almost periodic functions in S1
+Applications of general monotone sequences to strong approximation by Fourier series
+Approximation of conjugate functions by general linear operators of their Fourier series at the Lebesgue points
+On the degree of strong approximation of integrable functions in Stepanov sense
+Strong approximation of almost periodec functions
+Approximation of functions from Lp(\omega)\beta by matrix means of their Fourier series
+On the degrees of aproximation of functions belonging to [...] class by matrix means of conjugate Fourier series
+Pointwise approximation of functions from [...] by linear operators of their Fourier series
+A new class of numerical sequences and its applications to uniform convergence of sine series
+Approximation of functions from [...] by general linear operators of their Fourier series
+Approximation of functions from [...] by linear operators of conjugate Fourier series
+Approximation of functions from L[^rho(omega)_ beta] by linear operators of their Fourier series
+Approximation of integrable functions by general linear operators of their Fourier series
+Approximation of integrable functions by general linear operators of their Fourier series at the Lebesgue points
+On L-convergence of trigonometric series
+On the integral modulus of continuity of Fourier series
+On the rate of summability by matrix means in the generalized Hölder metric
+On the uniform convergence of weighted trigonometric series
+Embedding relations connected with strong approximation
+On the degree of strong approximation of functions and conjugate functions
+On weighted Lp integrability of functions defined by trigonometric series
+A note on the MRBSV S class and its application to the uniform convergence and boundedness of sine series
+Application of the classes IMRBVS to embedding relations of Besov classes
+Application of the M RBV S classes to embedding relations of the Besov classes
+Approximation of functions belonging to the class L\ro(omega)beta\ by linear operators
+Embedding relations connected with Fourier series
+Embedding results pertaining to matrix strong approximation by Fourier series
+Generalization of a theorem on Besov-Nikol'skii classes
+On the Degree of Strong Approximation of Continuous Functions by Special Matrix
+Trigonometric approximation by Nörlund type means in Lp -norm
+A note on the uniform convergence and boundedness of a generalized class of sine series
+Embedding relations connected with the strong approximation by Fourier series
+On the approximation by Euler, Borel and Taylor means in enlarged Hölder classes
+On the approximation of functions by matrix means in the generalized Hölder metric
+On the rate of strong summability by matrix means in the generalized Hölder metric
+Pointwise strong and very strong approximation by matrix means of Fourier series
+On the strong approximation by matrix means in the generalized Hölder metric
+On the strong approximation by Fourier series in Lipschitz norms
+On the strong approximation on functions in generalized Hölder spaces
+On a generalization on the Leidler-Meir and Steckin results
+
+38)
+Miękkie modele preferencji i ich zastosowania w ekonomii
+Relacje przedziałowe jako modele preferencji
+Równowagi cenowe w dyskretnych modelach rynku typu Gale'a-Shapleya
+O pewnym dyskretnym modelu rynku
+O pewnym algorytmie poszukiwania stabilnych skojarzeń
+O pewnych mechanizmach rozdziału dóbr
+Order stable solutions for two-sided matching problems
+O pewnym uogólnieniu algorytmu Gale'a-Shapley'a
+General consistency conditions for fuzzy interval-valued preference relations
+Gry transportowe i paradoks Braessa
+Stability and price equilibria in a many-to-many Gale-Shapley market model
+Stability and generalized competitive equilibria in a many-to-many Gale-Shapley market model
+Some properties of competitive equilibria and stable matchings in a Gale-Shapley market model
+Struktura zbioru wektorów cen równowagi w modelu rynku typu Gale'a-Shapleya
+A number of stable matchings in models of the Gale-Shapley type
+Równowagi na rynkach z dwustronnymi preferencjami
+O kojarzeniu małżeństw i rekrutacji kandydatów do szkół
+Stability and equilibria in the matching models
+Algorytm Gal'a-Shapleya i jego uogólnienie
+Optymalny system rekrutacji kandydatów do szkół
+Pareto-optymalne mechanizmy rozdziału dóbr niepodzielnych
+O pewnych uogólnieniach metody Bordy
+General transitivity conditions for fuzzy reciprocal preference matrices
+Haft-integrality of vertices of the generalized transitive tournament polytope (n=6)
+Preferencje przedziałowe i ich zastosowanie w analizie decyzyjnej
+Transitivity of fuzzy preference relations - an empirical study
+Rationality of fuzzy reciprocal preference relations - an empirical study
+Prognozowanie WIG-u na podstawie modelu rozmytego prognozowania wieloetapowego
+Rozmyte relacje preferencji w systemach wspomagania decyzji wraz z analizą statystyczną
+Wieloetapowe procesy decyzyjne w warunkach niepewności
+Wybór wariantów decyzji ekonomicznych z zastosowaniem rozmytej relacji preferencji
+Wykorzystanie metody "ELEKTRA" do wyboru wariantów realizacji przedsięwzięć gospodarczych w warunkach rozmytej informacji
+A note Piasecki's P-measure
+A note on fuzzy rational choice functions
+Choice function associated with fuzzy preference relations
+Stability and competitive price equilibria in a Gale-Shapley market model
+Preferencje stopniowalne i ich zastosowanie w analizie decyzyjnej
+General transitivity conditions for fuzzy preference matrices
+
+39)
+Determinanty sukcesu małych i średnich przedsiębiorstw = Determinants of success of small and medium-sized enterprises
+Cardiovascular Risk Assessment in Women after Pregnancy Complicated by Gestational Diabetes Mellitus: A Cross-Sectional, Single Center Study
+A Comparative Analysis of the Number of Organ Retrievals in Relation to Potential Donation Qualifications in Populations of Patients From a Single Anesthesiology and Intensive Care Unit in 2017-2018
+Systemic Inflammatory Predictors of In-Hospital Mortality in COVID-19 Patients: A Retrospective Study
+Endourology Methods in Pediatric Population for Kidney Stones Located in Lower Calyx: FlexURS vs. Micro PCNL (MicroPERC)
+Management practices and their relation to success of Polish SMEs: The empirical verification
+Extended Phylogeny and Extraintestinal Virulence Potential of Commensal Escherichia coli from Piglets and Sows
+Classification of Manufacturing Enterprises in Terms of Their Innovation Level Based on the Decision Tree Model
+Ocena ryzyka sercowo-naczyniowego u kobiet ciąży powikłanej GDM
+Comparison of Commensal Escherichia coli Isolates from Adults and Young Children in Lubuskie Province, Poland: Virulence Potential, Phylogeny and Antimicrobial Resistance
+Behavior aspects of Generation Y consumers on the food market
+The effect of floor insulation on indoor air temperature and energy consumption of residential buildings in moderate climates
+Comparative calculation of heat exchange with the ground in residential building including periodes of heat waves
+Analiza skłonności przedsiębiorstw z wiodących regionów Polski do inwestowania w nowe środki trwałe z wykorzystaniem modelu logitowego uwzględniającego interakcje zmiennych jakościowych
+Prevalence of virulence determinants and antimicrobial resistance among commensal Escherichia coli derived from dairy and beef cattle
+Innovations of the food products from the perspective of the gen Y consumers
+Statistical analysis of nitrogen in the soil of constructed wetland with horizontal sub-surface flow
+Analiza statystycznej zmienności składu ścieków w mechaniczno-biologicznej oczyszczalni
+Analiza statystyczna zawartości azotu ogólnego w złożu oczyszczalni hydrofitowej w Małyszynie
+Robustness and efficiency of Sasieni-type estimators in the Cox model
+Binomial Logit Models in The Assessment of The Manufacturing Enterprise Innovativeness
+Mathematical modelling of waste activated sludge thermal  desintegration
+Analysis of innovation levels exhibited by Polish manufacturing companies in the metal and automotive industries
+Distribution of virulence determinants in relation to the phylogenetic structure among the Escherichia coli isolates from healthy adults
+Relacje pomiędzy strukturą filogenetyczną a rozpowszechnieniem genów wirulencji wśród komensalnych izolatów Esscherichia coli pochodzących od zdrowych dzieci
+Analiza zgodności z modelem Coxa za pomocą reszt
+
+40)
+Programowa implementacja konwersji sieci Petriego na język VHDL
+Synteza współbieżnego układu cyfrowego z wykorzystaniem bibliotek  języka VHDL
+A VHDL based Approach to Logic Controllers Design
+Metodologia zapisu sieci Petriego w języku VHDL i automatyzacja ich tworzenia
+Modelowanie współbieżnych układów cyfrowych z wykorzystaniem syntetyzowalnego podzbioru języka VHDL
+Zielonogórskie doświadczenia w kształceniu z zakresu logiki programowalnej
+Coloured Petri net model of application specific logic controller programs
+Reprezentacja synchronicznej sieci Petriego w języku C++
+Simulating and synthesising of reconfigurable logic controllers using VHDL
+Sterownik panelu wyświetlaczy samochodowych jako układ scalonego VLSI typu FPGA
+System analizy i syntezy sieci Petriego - PeN-CAD
+Teaching modern technologies in a small CEE University - experiences with EUROPRACTICE support in Zielona Góra
+VHDL Modelling of industrial logic control systems
+Akademicki system ECAD ChipWise w nauczaniu podstaw projektowania układów cyfrowych CMOS VLSI
+Elementy programowalne VLSI typu FPGA i ich zastosowanie w projektowaniu aparatury kontrolno-pomiarowej
+Field programmable device as a logic controller
+Graficzna przeglądarka wyników symulacji VHDL
+Modelowanie elementów FPGA w języku VHDL
+Modelowanie elementów FPGA w języku VHDL z uwzględnieniem parametrów czasowych
+Modelowanie sieci Petriego w języku VHDL
+Programowalny generator napięć sinusoidalnych z wbudowaną funkcją oscyloskopu
+Translacja specyfikacji struktury układów cyfrowych z formatu EDIF na VHDL
+Kompilacja FSM na język VHDL
+Modelowanie automatu cyfrowego z wykorzystaniem podzbioru sekwencyjnego języka VHDL
+Programowanie w projektowaniu układów cyfrowych
+Modelowanie układów cyfrowych na poziomie RTL z wykorzystaniem sieci Petriego i podzbioru języka VHDL
+
+41)
+A note on admissibility of linear estimators in random models with a special structure
+An explicit characterization of admissible linear estimators of fixed and random effects in balanced random models
+On data-dependent tuning constant of the Huber family for robust estimator
+On admissibility of linear estimators in models with finitely generated parameter space
+Robust estimation in the multivariate normal model
+Robust estimation in the multivariate normal model with variance components
+On optimality of the orthogonal block design
+A characterization of admissible linear estimators of fixed and random effects in linear models
+On geometry of the set of admissible quadratic estimators of quadratic functions of normal parameters
+On geometry of the set of admissible invariant quadratic estimators in balanced two variance components model
+Robust M-estimator of parameters in variance components model
+On construction of admissible quadratic estimators
+Robust estimation in linear model for spatially located sensors and random input
+Multivariate robust estimation in linear model for spatially located sensors and random input
+Robust estimation in two-way classification mixed model
+On robust estimation of variance components via von mises functionals
+On admissibility of linear estimators in models with finitely generated parameter space
+Odporna estymacja parametrów w wielowymiarowym modelu normalnym
+O dopuszczalnej predykcji w modelu z dwoma komponentami
+O odpornej estymacji parametrów w modelach liniowych
+
